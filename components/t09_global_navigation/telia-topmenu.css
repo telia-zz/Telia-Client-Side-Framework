@@ -1,0 +1,343 @@
+/*
+ * @description: topmenu for Telia.dk and related sites.
+ * Contains the CSS for reset, fonts, hacks and miscellaneous (misc)
+ * items.
+ * @remarks: Is to be used on every single page
+ * @author: Jesper Bech Løkza / Henrik Dreisler - electric
+ * @version: 1.0
+=============================================*/
+
+body {
+	font: normal 12px/normal Verdana, Geneva, sans-serif;
+}
+
+/* =top menu div holder
+ * Styling of the top menu div holder */
+div.top { 
+	position:relative;
+	background:url('topbar-left.png') top left no-repeat;
+	width: 960px;
+	height: 103px;
+}
+
+div.top div.right-slide-back {
+	float:right;
+	clear:left;
+	width:600px;
+	height:103px;
+	background:url('topbar-right.png') right top no-repeat;	
+}
+
+/* topmnenu top links */
+#top-list {
+	position:absolute;
+	right:0;
+	top:0;
+	width:525px;
+	padding-top:19px;
+}
+	
+#top-list #base-links {float:left; width:300px; text-align:right; margin:4px 17px 0 0;}	
+
+#top-list #search-field {
+	position:relative;
+	float:right;
+	width:200px;
+	margin:1px 8px 0 0;
+	background-image:url('search.png');
+	background-position:0 0;
+	background-repeat:no-repeat;
+	}
+
+/* ie6 searchfield position correction*/
+.browserIE6 #top-list #search-field {margin:0 4px 0 0;}
+
+#top-list #search-field .topbar-submit {
+	background:transparent url(topbar-submit.gif) no-repeat scroll 0 0;
+	border:0 none;
+	cursor:pointer;
+	/*
+	left:-999em;
+	position:absolute;
+	*/
+	right:20px;
+	top:2px;
+	width:20px;
+}
+
+/*#top-list #search-field .topbar-submit{
+	position:absolute;
+	width:20px;
+	right:20px;
+	top:2px;
+	background:url("topbar-submit.gif") 0 0 no-repeat;
+	cursor:pointer;
+	border:0;
+	left:-999em;
+}*/
+
+/* topMenu search field */
+#search-field form
+	{
+	padding:0px;
+	margin:2px 0 0 0;
+}
+
+input.search{
+	border:0;
+	padding:0 0 0 4px;
+	width:153px;
+	height:20px;
+	font-size:12px;
+	background:none;
+}
+	
+/* ie6 form field input field correction */
+.browserIE6 input.search{
+	padding:1px 0 0 4px;
+	height:18px;
+}
+	
+/* ie7 form field input field correction */
+.browserIE7 input.search{
+	padding:0px 0 0 4px;
+	height:18px;
+}
+	
+/* chrome1 form field input field correction */
+.browserChrome1 input.search{
+	padding:0 0 0 4px;
+	height:20px;
+	}
+
+
+#top-list fieldset {
+	margin:0;	
+	padding:0;
+	border:0;
+}
+
+#top-list fieldset label{
+	display:none;
+	text-indent:-10000px;
+}
+
+
+#top-list ul, #top-list li {
+	display: inline;
+	margin-left: 18px;
+	padding: 0;
+	color: #FFF;
+	}
+
+#top-list li a {
+color: #FFF;
+text-decoration: none;
+}
+
+#top-list li a:hover {
+color: #FFF;
+text-decoration: none;
+}
+
+
+/* topMenu bottom list main links */
+#bottom-list {
+	position:absolute;
+	left:16px;
+	bottom:7px;
+	width:100%;
+	text-align:left;
+	padding-top:35px;
+	height:22px;
+	}
+
+#bottom-list ul {
+	width:auto;
+	margin:0;
+	}
+
+#bottom-list ul, #bottom-list li {
+	width:auto;
+	float:left;
+	height:22px;
+	display: inline;
+	padding: 0;
+	color: #000;
+	font-weight: bold;
+	}
+
+#bottom-list li a {
+	width:auto;
+	float:left;
+	color: #000;
+	height:14px;
+	text-decoration: none;
+	margin-right:7px;
+	padding:3px 0 5px 0;
+	}
+
+/* style for selected link under privat */
+.bottom-list-privat li.selected-link a {
+	color: #000;
+	text-decoration: none;
+	height:14px;
+	margin-right:7px;
+	padding:3px 0 5px 0;
+	background: url("menu-link-back-right.png") right top no-repeat;
+}
+	
+.bottom-list-privat li.selected-link a span {
+	height:14px;
+	color:#fff;
+    background:url("menu-link-back-left.png") left top no-repeat;
+}
+
+.bottom-list-privat a:hover {
+	background:url("menu-link-back-right.png") right top no-repeat;
+    }
+	
+.bottom-list-privat li a span, .bottom-list-privat li a:link span, .bottom-list-privat li a:visited span {
+    margin:0px;
+    padding:3px 9px 7px 8px;
+    }
+	
+.bottom-list-privat li a:hover span {
+	color:#fff;
+    background:url("menu-link-back-left.png") 0px 0px no-repeat;
+}
+
+.browserIE7 .bottom-list-privat li a:hover span {
+	color:#fff;
+    background:url("menu-link-back-left.png") 0px 0px no-repeat;
+}
+
+/* style for selected link under erhverv */
+.bottom-list-erhverv li.selected-link a {
+	color: #000;
+	text-decoration: none;
+	height:14px;
+	margin-right:7px;
+	padding:3px 0 5px 0;
+	background: url("area-link-back-right.png") right top no-repeat;
+}
+	
+.bottom-list-erhverv li.selected-link a span {
+	height:14px;
+	color:#fff;
+    background:url("area-link-back-left.png") left top no-repeat;
+}
+
+.bottom-list-erhverv a:hover {
+	background:url("area-link-back-right.png") right top no-repeat;
+}
+	
+.bottom-list-erhverv li a span, .bottom-list-erhverv li a:link span, .bottom-list-erhverv li a:visited span {
+    margin:0px;
+    padding:3px 9px 7px 8px;
+}
+	
+.bottom-list-erhverv li a:hover span {
+	color:#fff;
+    background:url("area-link-back-left.png") 0px 0px no-repeat;
+}
+
+.browserIE7 .bottom-list-erhverv li a:hover span {
+	color:#fff;
+    background:url("area-link-back-left.png") 0px 0px no-repeat;
+}
+
+/* specific black hover for frontpage erhverv link */
+.bottom-list-privat a.bottom-list-erhverv-frontlink:hover {
+	background:url("area-link-back-right.png") right top no-repeat;
+    }
+	
+.bottom-list-privat .bottom-list-erhverv-frontlink:hover span {
+	color:#fff;
+    background:url("area-link-back-left.png") 0px 0px no-repeat;
+}
+
+.bottom-list-privat .browserIE7 a.bottom-list-erhverv-frontlink:hover span {
+	color:#fff;
+    background:url("area-link-back-left.png") 0px 0px no-repeat;
+}
+
+
+/* topMenu area link privat */
+#bottom-area-link-privat {
+	position:absolute;
+	right:16px;
+	bottom:7px;
+	width:150px;
+	text-align:right;
+	padding-top:35px;
+	height:22px;
+	}
+
+#bottom-area-link-privat ul, #bottom-area-link-privat li {
+	display: inline;
+	padding: 0;
+	color: #000;
+	font-weight: bold;
+	}
+	
+#bottom-area-link-privat ul {
+	margin:0 0 0 22px;
+	}
+
+#bottom-area-link-privat li a {
+	width:auto;
+	float:right;
+	color: #000;
+	text-decoration: none;
+	margin-right:7px;
+	padding:3px 0 5px 0;
+	background:url("menu-link-back-right.png") right top no-repeat;
+	}
+	
+#bottom-area-link-privat li a span {
+    margin:0px;
+    padding:3px 9px 7px 8px;
+	color:#fff;
+    background:url("menu-link-back-left.png") 0px 0px no-repeat;
+    }
+	
+	
+/* topMenu area link erhverv */
+#bottom-area-link-erhverv {
+	position:absolute;
+	right:16px;
+	bottom:7px;
+	width:150px;
+	text-align:right;
+	padding-top:35px;
+	height:22px;
+	}
+
+#bottom-area-link-erhverv ul, #bottom-area-link-erhverv li {
+	display: inline;
+	padding: 0;
+	color: #000;
+	font-weight: bold;
+	}
+	
+#bottom-area-link-erhverv ul {
+	margin:0 0 0 22px;
+	}
+
+#bottom-area-link-erhverv li a {
+	width:auto;
+	float:right;
+	color: #000;
+	text-decoration: none;
+	margin-right:7px;
+	padding:3px 0 5px 0;
+	background:url("area-link-back-right.png") right top no-repeat;
+	}
+	
+#bottom-area-link-erhverv li a span {
+    margin:0px;
+    padding:3px 9px 7px 8px;
+	color:#fff;
+    background:url("area-link-back-left.png") 0px 0px no-repeat;
+    }

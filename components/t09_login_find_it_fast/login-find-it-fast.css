@@ -1,0 +1,346 @@
+/*
+ * @description: css reskinning of login box and find it fast box for Telia.dk.
+ * Contains the CSS for reset, fonts, hacks and miscellaneous (misc)
+ * items.
+ * @author: Jon Ege Ronnenberg (logicLAB) based on the work of Jesper Bech Løkza / Henrik Dreisler - electric
+ * @version: 2.0
+=============================================*/
+
+body {
+	font: normal 12px/normal Verdana, Geneva, sans-serif;
+}
+
+
+div.innertube-rightside {
+	width:230px;
+	/*float:left;*/
+/*	position:relative;*/
+	background:none;
+	}
+
+/* login box styling */
+div#box-alleredekunde {
+	position:relative;
+	/*float:left;*/
+	width:222px;
+/*	min-height:97px;*/
+	background:url(http://static.telia.dk/images/login-back-top.gif) 0 0 no-repeat;
+	padding-top: 47px;
+	padding-left: 8px;
+}
+
+div.log-in-box {
+	/*float:left;*/
+	padding:0 0 2px 0;
+	background:url(http://static.telia.dk/images/dropdown-login-bottom-back.gif) left bottom no-repeat;
+}
+
+/* safari3 float fix */
+.browserSafari3 div.log-in-box {
+	float:none;
+}
+
+#dropdown-privat, #dropdown-erhverv, #dropdown-alleredekunde{
+	width:185px;
+	border:0;
+	margin:0;
+	padding:0;
+}
+
+a.dropdown, a.dropdown:hover
+{
+	display:block;
+	width:185px;
+	height:20px;
+	margin:0 0 -4px 0;
+	padding:3px 3px 2px 6px;
+	line-height:16px;
+	color:#000;
+	font-size:10px;
+	font-weight:bold;
+	text-decoration:none;
+	background:url(http://static.telia.dk/images/drop-down-arrow-back-fold-in.gif) 0 0 no-repeat;
+	cursor:pointer;
+}
+/* line bleed in IE6 */
+.browserIE6 a.dropdown, .browserIE6 a.dropdown:hover{
+	padding-bottom: 0px;
+}
+
+/* login list setup */
+
+/* general styles for lists */
+.dropdown-inner ul
+{
+	display: block;
+	width:100%;
+/*	padding:3px 3px 0px 6px;*/
+	color:#d92684;
+	text-decoration:none;
+	background: none;
+}
+
+.dropdown-inner li
+{
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	display:inline;
+}
+
+.dropdown-inner a
+{
+	display: block;
+	padding-top: 4px;
+	padding-right: 3px;
+	padding-bottom: 5px;
+	padding-left:6px;
+	background:none;
+	font-size:10px;
+	font-weight:bold;
+	text-decoration: none;
+}
+
+.dropdown-inner a:link, .dropdown-inner a:visited {
+	color: #d92684;
+	}
+
+.dropdown-inner a:hover{
+	color:#000;	
+	}
+
+
+/* login list styles */
+.login-ul-back {
+	/*height:69px;*/
+	padding:0;
+	background:#ff0000 url(http://static.telia.dk/images/login-ul-back.gif) 0 0 no-repeat;
+}
+
+.login-ul-back ul li a {
+	width:176px;
+	color:#d92684;
+	text-decoration:none;
+	background:none;
+	border-top: 1px solid #b2c1c0;
+	cursor:pointer;
+	
+}
+
+.login-ul-back ul li a:hover {
+	cursor:pointer;
+}
+
+/* login formfields */
+div.login-formcontainer {
+	margin-top: 20px;
+}
+.browserIE6 div.login-formcontainer{
+	margin-top: 30px;
+}
+
+input.login-1
+{
+	border:0;
+	width:180px;
+	height:25px;
+	font-size:11px;
+	padding:0 0 0 5px;
+	margin:5px 0 0 0;
+	background:url(http://static.telia.dk/images/login-formfield-back.gif) 0 0 no-repeat;
+}
+
+/* IE6 formfield position corrections */
+.browserIE6 input.login-1 {
+	padding:5px 0 0 5px;
+	margin:2px 0 0 0;
+	}
+	
+/* IE7 formfield position corrections */
+.browserIE7 input.login-1 {
+	padding:5px 0 0 5px;
+	margin:2px 0 -3px 0;
+	}
+	
+/* firefox 3 formfield position corrections */
+.browserFirefox3 input.login-1 {
+	padding:5px 0 0 5px;
+	margin:2px 0 -3px 0;
+	}
+	
+.submitbutton {
+	margin:5px 0 0 0;
+	}
+
+
+/* login box bottom bar */
+div.bottombox-login {
+	/*position:relative;*/
+	/*float:left;*/
+	background:url(http://static.telia.dk/images/login-back-bottombar.png) 0px 100% no-repeat;
+	width:230px;
+	/*height:37px;*/
+	margin:27px 0 0 -8px;
+	padding-bottom: 15px;
+}
+	
+/* ie6 position fix */
+.browserIE6 div.bottombox-login {
+	/*margin:27px 0 0 -4px;*/
+}
+
+div.bottombox-login ul {
+	width:184px;
+	/*float:left;*/
+	list-style:none;
+	margin:1px 0 0 23px;
+	padding:0 0 18px 0;
+	}
+	
+/* ie6 position fix */
+.browserIE6 div.bottombox-login ul {
+	margin:1px 0 0 11px;
+	}
+	
+div.bottombox-login ul li {
+	float:left;
+	width:auto;
+	font-size: 11px;
+	letter-spacing:-0.1em;
+	margin:0 15px 3px 0px;
+	padding:0 0 0 8px;
+	background:url(http://static.telia.dk/images/login-white-arrow.gif) left 4px no-repeat;
+}
+
+div.bottombox-login ul li a {
+	width:100%;
+	color:#fff;
+	text-decoration:none;
+}
+
+
+/* find it fast box */	
+#box-shortcut {
+	width:222px;
+	/*float:left;*/
+	min-height:67px;
+	margin:0;
+	padding:36px 0 0 8px;
+	background:url(http://static.telia.dk/images/ff-back-top.png) left top no-repeat;
+	}
+
+/* find it fast box IE6 height adjustment*/
+.browserIE6 #box-shortcut {
+	height:67px;
+	}
+	
+.headbox-finditfast {
+	display:none;
+	}
+
+/* privat dropdown */
+div.ff-privat-container{
+	margin:0 0 -8px -10px;
+	}
+
+a.dropdown-ff-privat, a.dropdown-ff-privat:hover
+{
+	display:block;
+	width:185px;
+	height:20px;
+	margin:0 0 -4px 0;
+	padding:3px 3px 2px 6px;
+	line-height:16px;
+	color:#fff;
+	font-size:10px;
+	font-weight:bold;
+	text-decoration:none;
+	background:url(http://static.telia.dk/images/drop-down-arrow-back-fif-privat-fold-in.gif) 0 0 no-repeat;
+	cursor:pointer;
+}
+
+
+div.dropdown-inner-privat {
+	background:url(http://static.telia.dk/images/ff-ul-back-privat.gif) 0 0 no-repeat;
+}
+	
+	
+div.dropdown-inner-privat a, .dropdown-inner-privat a:link, .dropdown-inner-privat a:visited  {
+	border-top:1px solid #cb3f86;
+	color:#fff;
+	}
+
+div.dropdown-inner-privat a:hover  {
+	color:#fff;
+	background:#e779b0;
+	}
+
+
+div.ff-privat-bottombar {
+	padding:0 0 2px 0;
+	background:url(http://static.telia.dk/images/dropdown-ff-privat-bottom-back.gif) left bottom no-repeat;
+	}
+
+/* erhverv dropdown */
+div.ff-erhverv-container{
+	margin:0 0 0 -10px;
+	}
+
+a.dropdown-ff-erhverv, a.dropdown-ff-erhverv:hover
+{
+	display:block;
+	width:185px;
+	height:20px;
+	margin:0 0 -4px 0;
+	padding:3px 3px 2px 6px;
+	line-height:16px;
+	color:#fff;
+	font-size:10px;
+	font-weight:bold;
+	text-decoration:none;
+	background:url(http://static.telia.dk/images/drop-down-arrow-back-fif-erhverv-fold-in.gif) 0 0 no-repeat;
+	cursor:pointer;
+}
+
+div.dropdown-inner-erhverv{
+	background:url(http://static.telia.dk/images/ff-ul-back-erhverv.gif) 0 0 no-repeat;
+	}
+	
+	
+div.dropdown-inner-erhverv a, .dropdown-inner-erhverv a:link, .dropdown-inner-erhverv a:visited  {
+	border-top:1px solid #424242;
+	color:#fff;
+	display:block;
+	}
+	
+div.dropdown-inner-erhverv a:hover{
+	color:#fff;
+	background-color:#777;
+}
+
+div.ff-erhverv-bottombar {
+	padding:0 0 2px 0;
+	background:url(http://static.telia.dk/images/dropdown-ff-erhverv-bottom-back.gif) left bottom no-repeat;
+	}
+
+#foldout-login-mobilkunde, #foldout-login-fastnetkunde, #foldout-login-bredbaandskunde
+{
+	width:0;
+	display:none;
+}
+
+/* find it fast box bottom bar */
+div.bottombox-finditfast {
+	position:relative;
+	/*float:left;*/
+	background:url(http://static.telia.dk/images/ff-back-bottom.png) 0px 100% no-repeat;
+	width:230px;
+	height:28px;
+	margin:0;
+	padding:0;
+	}
+	
+/* ie6 position fix */
+.browserIE6 div.bottombox-finditfast {
+	margin:0 0 -7px 0;
+	}

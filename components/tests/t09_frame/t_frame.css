@@ -1,0 +1,66 @@
+/* Magenta colored frame in 2009 design. Can be either 530px and 230px wide.
+ * @version 3.0
+ * @remark Version 2.0 is only used for Eva.
+ * @author Jon Ege Ronneneberg (logicLAB)
+*/
+
+/* =small
+ * Small white-background frame with or without a grey bottom */
+.t-frame-small, .t-frame-small-w-bottom{
+	background-image: url(border_top.png);
+	background-repeat: no-repeat;
+	background-position: 0 0;
+	padding-top: 29px;
+	width: 230px;
+}
+.t-frame-small .t-frame-middle, .t-frame-small-w-bottom .t-frame-middle{
+	background-image: url(border_attributes.png);
+	background-repeat: repeat-y;
+}
+.t-frame-small .t-frame-bottom, .t-frame-small-w-bottom .t-frame-bottom{
+	background-repeat: no-repeat;
+	background-position: bottom;
+}
+.t-frame-small .t-frame-bottom{
+	background-image: url(border_bottom.png);	
+	padding-bottom: 35px;
+}
+.t-frame-small-w-bottom .t-frame-bottom{
+	background-image: url(border_bottom_grey.png);
+	padding-bottom: 55px;
+}
+/* =wide
+ * Wide frame with white background */
+.t-frame-wide{
+	background-image: url(wide_top.png);
+	background-repeat: no-repeat;
+	background-position: 0 0;
+	padding-top: 28px;
+	width: 530px;
+}
+.t-frame-wide .t-frame-middle{
+	background-image: url(wide_attributes.png);
+	background-repeat: repeat-y;
+}
+.t-frame-wide .t-frame-bottom{
+	background-image: url(wide_bottom.png);
+	background-repeat: no-repeat;
+	background-position: bottom;
+	padding-bottom: 35px;
+}
+.t-frame-wide-w-magenta{
+	background-image: url(wide_magenta_top.png);
+	background-repeat: no-repeat;
+	background-position: 0 0;
+	padding-top: 28px;
+	width: 530px;
+}
+.t-frame-wide-w-magenta .t-frame-middle{
+	background-color: #ad005b;
+}
+.t-frame-wide-w-magenta .t-frame-bottom{
+	background-image: url(wide_magenta_bottom.png);
+	background-repeat: no-repeat;
+	background-position: bottom;
+	padding-bottom: 35px;
+}

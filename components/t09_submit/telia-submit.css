@@ -1,0 +1,87 @@
+/* Telia Submit Component
+ * @description: The submit button is using the sprite technique to eliminate the load image
+ *  delay. It can be variable length but always 22px height, if you alter this the design will crash.
+ * @author Jon Ege Ronnenberg (logicLAB)
+ * @version: 2.0
+ * @remarks: button elements has to be inside form fieldset elements to conform to XHTML strict.
+ * Tested in IE6-8, FF2-3, Opera 9, Safari 3, Chrome 1 on Windows Vista
+ * @syntax: <button type="submit">
+				<span>text</span>
+			</button>
+=============================================*/
+
+/* =button
+ * Styling of the button element */
+button{
+	background-image: url(button_end.png);
+	background-repeat: no-repeat;
+	background-position: right top;
+	border: 0 none;
+	color: #fff;
+	cursor: pointer;
+	font-size: 10px; /* make sure we have the same font size no matter where */
+	height: 22px;
+	line-height: 20px;
+	padding-right: 6px;
+	padding-left: 0;
+}
+
+/* =span
+ * Styling of the span element inside the button element */
+button span{
+	background-image: url(button_start.png);
+	background-repeat: no-repeat;
+	font-size: 10px; /* make sure we have the same font size no matter where */
+	height: 22px;
+	padding-left: 5px;
+	position:relative;
+}
+
+
+/* =button:active
+ * Styling of the button element when active */
+button[disabled]{
+	background-position:right bottom;	
+}
+/* =span:active
+ * Styling of the span element inside the button element when active */
+button[disabled] span{
+	background-position:0 -28px;
+}
+
+/* =adjustments
+ * Adjustments for different supported browsers */
+
+/* IE, Opera, Safari */
+.browserIE button span, .browserOpera button span, .browserSafari button span{
+	display:block;
+}
+
+/* IE */
+.browserIE button{
+	/* KLUDGE: to prevent IE making ridiculous long buttons */
+	overflow: visible;
+	width: auto;
+}
+.browserIE button span{
+	white-space: nowrap;
+}
+/* IE6 */
+.browserIE6 button span{
+	padding-bottom: 0px;
+}
+
+/* Firefox and Chrome */
+.browserChrome button span, .browserFirefox button span{
+	margin-left: -3px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+/* Firefox */
+.browserFirefox button::-moz-focus-inner{
+	border: none;
+}
+.browserFirefox button span{
+	margin-left:-2px;
+}
