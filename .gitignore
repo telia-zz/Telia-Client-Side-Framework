@@ -2,3 +2,5 @@
 .svn
 # windows image db
 Thumbs.db
+# Photoshop files
+.pds
