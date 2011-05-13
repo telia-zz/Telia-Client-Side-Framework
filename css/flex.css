@@ -1,0 +1,136 @@
+@charset "utf-8";
+/* CSS Document */
+
+/** Flex Wrapper **/
+.flexWrapper{
+	position:relative;
+}
+
+.flexWrapper h2{
+	margin:0 0 10px 0;
+	font-size:23px;
+}
+.flexWrapper h3{
+	margin:0 0 15px 0;
+	font-size:16px;
+	font-weight:normal;
+}
+
+.flexWrapper .dolphinCollWrapper{
+	margin-top:30px;
+}
+
+.flexWrapper .dolphinCollWrapper .dolphin3CollItem h3{
+	font-size:15px;
+	margin:0 0 10px 0;
+	font-weight:bold;
+}
+
+.flexWrapper td{
+	width:140px;
+}
+
+.flexWrapper .horizontalDevider{
+	margin:30px 0 30px 0;
+}
+
+/** Abonnements forside **/
+.abboFront .dolphinCollWrapper .dolphin3CollItem{
+	height:150px;
+}
+
+.abboFront .dolphinCollWrapper .dolphin3CollItem h3{
+	font-size:21px;
+}
+
+.abboFront .dolphinCollWrapper .dolphin3CollItem img{
+	position:absolute;
+	bottom:0px;
+	right:0px;
+}
+
+
+/** Flex mobil abonnement **/
+.flexMobilAbbo .priceBadge{
+	position:absolute;
+	top:90px;
+}
+
+.allreadyPhoneWrapper {
+	position:relative;
+	margin:30px 0 0 0;
+}
+
+.pricePointWrapper{
+	position:relative;
+	margin:30px 0 30px 0;
+	display:none;
+}
+
+.pricePointWrapper tr{
+	text-align:center;
+	font-size:11px;
+	width:120px;
+}
+.pricePointWrapper tr h3{
+	font-size:15px;
+	font-weight:normal;
+	margin:3px;
+}
+
+.allreadyPhoneWrapper h3, .pricePointWrapper h3, .flexFriFamillie h3 {
+	font-size:17px;
+	font-weight:bold;
+	margin:0 0 10px 0;
+}
+.allreadyPhoneWrapper h3 + h3, .pricePointWrapper h3 + h3, .flexFriFamillie h3 + h3{
+	font-size:15px;
+	font-weight:normal;
+}
+
+.flexFriFamillie {
+	position:relative;
+	margin:30px 0 0 0;
+	height:300px;
+}
+	.flexFriFamillieFordele{
+		position:absolute;
+		width:330px;
+		height:100px;
+		top:140px;
+		right:0px;
+	}
+	.flexFriFamillieFordele strong{
+		color:#333333;
+	}
+	
+/** Flex bland selv **/
+.flex h3{
+	font-size:19px;
+}
+
+.flexBeregner{
+	position:relative;
+}
+.flexBeregner h3{
+	font-size:15px;
+	font-weight:bold;
+	margin:25px 0 10px 0;
+}
+
+.contentWrap .content .flexWrapper .flexBeregner td{
+	font-size:15px;
+}
+.contentWrap .content .flexWrapper .flexBeregner p{
+	font-size:13px;
+	margin:0 0 0 0;
+}
+
+.flex .dolphinCollWrapper{
+	margin-top:0px;
+	margin-bottom:15px;
+}
+
+.flex .allreadyPhoneWrapper{
+	display:none;
+}

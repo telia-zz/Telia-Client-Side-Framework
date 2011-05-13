@@ -1,0 +1,4119 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<shops>
+	<shop>
+	   <name><![CDATA[Fona Aabenraa]]></name>
+	   <address>Ramsherred 51C</address>
+	   <city>6200 Aabenraa</city>
+	   <phone>7462 2844</phone>
+	   <fax>7462 5989</fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+		   <mon></mon>
+		   <tue></tue>
+		   <wed></wed>
+		   <thu></thu>
+		   <fri></fri>
+		   <sat></sat>
+		   <sun></sun>
+		   <notes></notes>
+	   </openinghours>
+	   <type>Fona</type>
+	   <lat>55.0451794</lat>
+	   <lng>9.419011100000034</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Fona Aalborg]]></name>
+	   <address>Nytorv 9</address>
+	   <city>9000 Aalborg</city>
+	   <phone>9812 5433</phone>
+	   <fax>9812 4808</fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+		   <mon></mon>
+		   <tue></tue>
+		   <wed></wed>
+		   <thu></thu>
+		   <fri></fri>
+		   <sat></sat>
+		   <sun></sun>
+		   <notes></notes>
+	   </openinghours>
+	   <type>Fona</type>
+	   <lat>57.0482529</lat>
+	   <lng>9.923360499999944</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Fona Aalborg Storcenter]]></name>
+	   <address>Hobrovej 452</address>
+	   <city>9200 Aalborg</city>
+	   <phone>9879 1833</phone>
+	   <fax>9879 1849</fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon></mon>
+	       <tue></tue>
+	       <wed></wed>
+	       <thu></thu>
+	       <fri></fri>
+	       <sat></sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Fona</type>
+	   <lat>57.004797</lat>
+	   <lng>9.875870999999961</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Fona Albertslund]]></name>
+	   <address>Stationstorvet 24</address>
+	   <city>2620 Albertslund</city>
+	   <phone>4364 6200</phone>
+	   <fax>4364 6984</fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon></mon>
+	       <tue></tue>
+	       <wed></wed>
+	       <thu></thu>
+	       <fri></fri>
+	       <sat></sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Fona</type>
+	   <lat>55.65702</lat>
+	   <lng>12.353477999999996</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Fona Amager]]></name>
+	   <address>Amager Centret 136</address>
+	   <city>2300 Amager</city>
+	   <phone>3257 0222</phone>
+	   <fax>3295 1532</fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon></mon>
+	       <tue></tue>
+	       <wed></wed>
+	       <thu></thu>
+	       <fri></fri>
+	       <sat></sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Fona</type>
+	   <lat>55.6508754</lat>
+	   <lng>12.59918909999999</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Fona Århus C]]></name>
+	   <address>Østergade 1</address>
+	   <city>8000 Århus C</city>
+	   <phone>8613 0122</phone>
+	   <fax>8619 9120</fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon></mon>
+	       <tue></tue>
+	       <wed></wed>
+	       <thu></thu>
+	       <fri></fri>
+	       <sat></sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Fona</type>
+	   <lat>56.1545317</lat>
+	   <lng>10.204887800000051</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Fona Århus C]]></name>
+	   <address>Ryesgade 24</address>
+	   <city>8000 Århus C</city>
+	   <phone>8612 0099</phone>
+	   <fax>8612 1101</fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon></mon>
+	       <tue></tue>
+	       <wed></wed>
+	       <thu></thu>
+	       <fri></fri>
+	       <sat></sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Fona</type>
+	   <lat>56.151726</lat>
+	   <lng>10.204163999999992</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Fona Århus C]]></name>
+	   <address>Søndergade 26</address>
+	   <city>8000 Århus C</city>
+	   <phone>8613 1822</phone>
+	   <fax>8613 1741</fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon></mon>
+	       <tue></tue>
+	       <wed></wed>
+	       <thu></thu>
+	       <fri></fri>
+	       <sat></sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Fona</type>
+	   <lat>56.154881</lat>
+	   <lng>10.206838000000062</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Fona Ballerup]]></name>
+	   <address>Ballerup Centret</address>
+	   <city>2750 Ballerup</city>
+	   <phone>4465 3322</phone>
+	   <fax>4465 7584</fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon></mon>
+	       <tue></tue>
+	       <wed></wed>
+	       <thu></thu>
+	       <fri></fri>
+	       <sat></sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Fona</type>
+	   <lat>55.72909723622871</lat>
+	   <lng>12.355751740894334</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Fona Brabrand]]></name>
+	   <address>City Vest 339</address>
+	   <city>8220 Brabrand</city>
+	   <phone>8625 3011</phone>
+	   <fax>8625 7533</fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon></mon>
+	       <tue></tue>
+	       <wed></wed>
+	       <thu></thu>
+	       <fri></fri>
+	       <sat></sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Fona</type>
+	   <lat>56.1550998688722</lat>
+	   <lng>10.134455412734951</lng>
+	</shop>
+		<shop>
+	   <name><![CDATA[Fona Brønshøj]]></name>
+	   <address>Frederikssundsvej 154</address>
+	   <city>2700 Brønshøj</city>
+	   <phone>3825 2728</phone>
+	   <fax>3889 2728</fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon></mon>
+	       <tue></tue>
+	       <wed></wed>
+	       <thu></thu>
+	       <fri></fri>
+	       <sat></sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Fona</type>
+	   <lat>55.70488116482111</lat>
+	   <lng>12.502022200424221</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Fona City 2]]></name>
+	   <address>City 2, Butik 389</address>
+	   <city>2630 Tåstrup</city>
+	   <phone>4399 6911</phone>
+	   <fax>4399 6929</fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon></mon>
+	       <tue></tue>
+	       <wed></wed>
+	       <thu></thu>
+	       <fri></fri>
+	       <sat></sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Fona</type>
+	   <lat>55.643970039840056</lat>
+	   <lng>12.276342916488602</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Fona Esbjerg]]></name>
+	   <address>Kongensgade 31</address>
+	   <city>6700 Esbjerg</city>
+	   <phone>7513 0133</phone>
+	   <fax>7512 0821</fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon></mon>
+	       <tue></tue>
+	       <wed></wed>
+	       <thu></thu>
+	       <fri></fri>
+	       <sat></sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Fona</type>
+	   <lat>55.4661887</lat>
+	   <lng>8.451249200000007</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Fona Farum]]></name>
+	   <address>Farum Bytorv 23</address>
+	   <city>3520 Farum</city>
+	   <phone>4495 5088</phone>
+	   <fax>4495 3659</fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon></mon>
+	       <tue></tue>
+	       <wed></wed>
+	       <thu></thu>
+	       <fri></fri>
+	       <sat></sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Fona</type>
+	   <lat>55.81449</lat>
+	   <lng>12.379636000000005</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Fona Fields]]></name>
+	   <address>Arne Jacobsens Alle 12</address>
+	   <city>2300 København</city>
+	   <phone>3250 4010</phone>
+	   <fax></fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon></mon>
+	       <tue></tue>
+	       <wed></wed>
+	       <thu></thu>
+	       <fri></fri>
+	       <sat></sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Fona</type>
+	   <lat>55.6312044</lat>
+	   <lng>12.57593010000005</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Fona Fisketorvet]]></name>
+	   <address>Kalvebod Brygge 59</address>
+	   <city>1500 København</city>
+	   <phone>3311 3450</phone>
+	   <fax>3311 3451</fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon></mon>
+	       <tue></tue>
+	       <wed></wed>
+	       <thu></thu>
+	       <fri></fri>
+	       <sat></sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Fona</type>
+	   <lat>55.66276</lat>
+	   <lng>12.562028999999939</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Fona Fredericia]]></name>
+	   <address>Gothersgade 12</address>
+	   <city>7000 Fredericia</city>
+	   <phone>7592 2955</phone>
+	   <fax>7592 6753</fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon></mon>
+	       <tue></tue>
+	       <wed></wed>
+	       <thu></thu>
+	       <fri></fri>
+	       <sat></sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Fona</type>
+	   <lat>55.5662754</lat>
+	   <lng>9.75653890000001</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Fona Frederiksberg]]></name>
+	   <address>Frederiksberg Centret</address>
+	   <city>2000 Frederiksberg</city>
+	   <phone>3888 0544</phone>
+	   <fax>3888 0541</fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon></mon>
+	       <tue></tue>
+	       <wed></wed>
+	       <thu></thu>
+	       <fri></fri>
+	       <sat></sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Fona</type>
+	   <lat>55.681588597677816</lat>
+	   <lng>12.533976418788143</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Fona Frederikshavn]]></name>
+	   <address>Danmarksgade 56</address>
+	   <city>9900 Frederikshavn</city>
+	   <phone>9842 4144</phone>
+	   <fax>9843 3133</fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon></mon>
+	       <tue></tue>
+	       <wed></wed>
+	       <thu></thu>
+	       <fri></fri>
+	       <sat></sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Fona</type>
+	   <lat>57.440469</lat>
+	   <lng>10.536241000000018</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Fona Frederikssund]]></name>
+	   <address>Nygade 1, st.</address>
+	   <city>3600 Frederikssund</city>
+	   <phone>4731 1515</phone>
+	   <fax>4738 3110</fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon></mon>
+	       <tue></tue>
+	       <wed></wed>
+	       <thu></thu>
+	       <fri></fri>
+	       <sat></sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Fona</type>
+	   <lat>55.8365605</lat>
+	   <lng>12.06440729999997</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Fona Glostrup]]></name>
+	   <address>Glostrup Centret 42</address>
+	   <city>2600 Glostrup</city>
+	   <phone>4345 4433</phone>
+	   <fax>4345 4494</fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon></mon>
+	       <tue></tue>
+	       <wed></wed>
+	       <thu></thu>
+	       <fri></fri>
+	       <sat></sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Fona</type>
+	   <lat>55.6649152</lat>
+	   <lng>12.399783599999978</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Fona Haderslev]]></name>
+	   <address>Gravene 1</address>
+	   <city>6100 Haderslev</city>
+	   <phone>7452 4234</phone>
+	   <fax>7452 4220</fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon></mon>
+	       <tue></tue>
+	       <wed></wed>
+	       <thu></thu>
+	       <fri></fri>
+	       <sat></sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Fona</type>
+	   <lat>55.2511633</lat>
+	   <lng>9.487841000000003</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Fona Hellerup]]></name>
+	   <address>Strandvejen 161</address>
+	   <city>2900 Hellerup</city>
+	   <phone>3961 1422</phone>
+	   <fax>3961 1408</fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon></mon>
+	       <tue></tue>
+	       <wed></wed>
+	       <thu></thu>
+	       <fri></fri>
+	       <sat></sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Fona</type>
+	   <lat>55.7319673</lat>
+	   <lng>12.575503799999979</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Fona Helsingør]]></name>
+	   <address>Stengade 25</address>
+	   <city>3000 Helsingør</city>
+	   <phone>4921 0918</phone>
+	   <fax>4926 4772</fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon></mon>
+	       <tue></tue>
+	       <wed></wed>
+	       <thu></thu>
+	       <fri></fri>
+	       <sat></sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Fona</type>
+	   <lat>56.0334218</lat>
+	   <lng>12.610093199999937</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Fona Herlev]]></name>
+	   <address>Herlev Butikscenter, Herlev Torv 22</address>
+	   <city>2730 Herlev</city>
+	   <phone>4484 0711</phone>
+	   <fax>4484 0709</fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon></mon>
+	       <tue></tue>
+	       <wed></wed>
+	       <thu></thu>
+	       <fri></fri>
+	       <sat></sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Fona</type>
+	   <lat>55.724339</lat>
+	   <lng>12.439415999999937</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Fona Herning]]></name>
+	   <address>Bredgade 17</address>
+	   <city>7400 Herning</city>
+	   <phone>9712 4455</phone>
+	   <fax>9712 8939</fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon></mon>
+	       <tue></tue>
+	       <wed></wed>
+	       <thu></thu>
+	       <fri></fri>
+	       <sat></sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Fona</type>
+	   <lat>56.1361184</lat>
+	   <lng>8.973166699999979</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Fona Hillerød]]></name>
+	   <address>Slotsarkaderne 49</address>
+	   <city>3400 Hillerød</city>
+	   <phone>4826 0133</phone>
+	   <fax>4825 5477</fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon></mon>
+	       <tue></tue>
+	       <wed></wed>
+	       <thu></thu>
+	       <fri></fri>
+	       <sat></sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Fona</type>
+	   <lat>55.928287</lat>
+	   <lng>12.298790999999937</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Fona Hjørring]]></name>
+	   <address>Østergade 7B</address>
+	   <city>9800 Hjørring</city>
+	   <phone>9892 1000</phone>
+	   <fax>9892 1200</fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon></mon>
+	       <tue></tue>
+	       <wed></wed>
+	       <thu></thu>
+	       <fri></fri>
+	       <sat></sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Fona</type>
+	   <lat>57.4596889</lat>
+	   <lng>9.98833680000007</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Fona Holbæk]]></name>
+	   <address>Ahlgade 41</address>
+	   <city>4300 Holbæk</city>
+	   <phone>5943 7510</phone>
+	   <fax>5944 2360</fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon></mon>
+	       <tue></tue>
+	       <wed></wed>
+	       <thu></thu>
+	       <fri></fri>
+	       <sat></sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Fona</type>
+	   <lat>55.7177155</lat>
+	   <lng>11.712546699999962</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Fona Holstebro]]></name>
+	   <address>Nørregade 30</address>
+	   <city>7500 Holstebro</city>
+	   <phone>9742 5611</phone>
+	   <fax>9742 2508</fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon></mon>
+	       <tue></tue>
+	       <wed></wed>
+	       <thu></thu>
+	       <fri></fri>
+	       <sat></sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Fona</type>
+	   <lat>56.3602422</lat>
+	   <lng>8.61790910000002</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Fona Horsens]]></name>
+	   <address>Søndergade 31</address>
+	   <city>8700 Horsens</city>
+	   <phone>7562 8000</phone>
+	   <fax></fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon></mon>
+	       <tue></tue>
+	       <wed></wed>
+	       <thu></thu>
+	       <fri></fri>
+	       <sat></sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Fona</type>
+	   <lat>55.8619903</lat>
+	   <lng>9.848881600000027</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Fona Hvidovre]]></name>
+	   <address>Hvidovre Stationscenter 37</address>
+	   <city>2650 Hvidovre</city>
+	   <phone>3647 1621</phone>
+	   <fax>3648 0701</fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon></mon>
+	       <tue></tue>
+	       <wed></wed>
+	       <thu></thu>
+	       <fri></fri>
+	       <sat></sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Fona</type>
+	   <lat>55.663383</lat>
+	   <lng>12.476230999999984</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Fona Hørsholm]]></name>
+	   <address>Hørsholm Midtpunkt</address>
+	   <city>2970 Hørsholm</city>
+	   <phone>4586 8200</phone>
+	   <fax>4586 8711</fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon></mon>
+	       <tue></tue>
+	       <wed></wed>
+	       <thu></thu>
+	       <fri></fri>
+	       <sat></sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Fona</type>
+	   <lat>55.88124264335355</lat>
+	   <lng>12.496471403952</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Fona Ishøj]]></name>
+	   <address>Ishøj Vestergade 1-5</address>
+	   <city>2635 Ishøj</city>
+	   <phone>4356 0850</phone>
+	   <fax>4356 1850</fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon></mon>
+	       <tue></tue>
+	       <wed></wed>
+	       <thu></thu>
+	       <fri></fri>
+	       <sat></sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Fona</type>
+	   <lat>55.613852</lat>
+	   <lng>12.355858000000012</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Fona Kolding]]></name>
+	   <address>Kolding Storcenter 24</address>
+	   <city>6000 Kolding</city>
+	   <phone>7550 6661</phone>
+	   <fax>7550 2447</fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon></mon>
+	       <tue></tue>
+	       <wed></wed>
+	       <thu></thu>
+	       <fri></fri>
+	       <sat></sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Fona</type>
+	   <lat>55.51400689285828</lat>
+	   <lng>9.460842484564182</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Fona København K]]></name>
+	   <address>Nørre Voldgade 17</address>
+	   <city>1358 København K</city>
+	   <phone>3313 8245</phone>
+	   <fax>3332 6061</fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon></mon>
+	       <tue></tue>
+	       <wed></wed>
+	       <thu></thu>
+	       <fri></fri>
+	       <sat></sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Fona</type>
+	   <lat>55.6834774</lat>
+	   <lng>12.571306499999992</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Fona København K]]></name>
+	   <address>Østergade 47, Strøget</address>
+	   <city>1100 København K</city>
+	   <phone>3315 9055</phone>
+	   <fax>3313 1638</fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon></mon>
+	       <tue></tue>
+	       <wed></wed>
+	       <thu></thu>
+	       <fri></fri>
+	       <sat></sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Fona</type>
+	   <lat>55.6791786</lat>
+	   <lng>12.58113000000003</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Fona Køge]]></name>
+	   <address>Brogade 11-13</address>
+	   <city>4600 Køge</city>
+	   <phone>5665 0088</phone>
+	   <fax>5665 5640</fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon></mon>
+	       <tue></tue>
+	       <wed></wed>
+	       <thu></thu>
+	       <fri></fri>
+	       <sat></sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Fona</type>
+	   <lat>55.4553478</lat>
+	   <lng>12.18207469999993</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Fona Lyngby]]></name>
+	   <address>Klampenborgvej 248</address>
+	   <city>2800 Lyngby</city>
+	   <phone>4587 3206</phone>
+	   <fax>4593 6681</fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon></mon>
+	       <tue></tue>
+	       <wed></wed>
+	       <thu></thu>
+	       <fri></fri>
+	       <sat></sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Fona</type>
+	   <lat>55.7706574</lat>
+	   <lng>12.504419999999982</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Fona Lyngby]]></name>
+	   <address>Lyngby Storcenter 38</address>
+	   <city>2800 Lyngby</city>
+	   <phone>4587 1134</phone>
+	   <fax>4593 1134</fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon></mon>
+	       <tue></tue>
+	       <wed></wed>
+	       <thu></thu>
+	       <fri></fri>
+	       <sat></sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Fona</type>
+	   <lat>55.772312</lat>
+	   <lng>12.505072000000041</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Fona Nykøbing F]]></name>
+	   <address>Østergågade 33A</address>
+	   <city>4800 Nykøbing F</city>
+	   <phone>5485 7174</phone>
+	   <fax>5485 2098</fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon></mon>
+	       <tue></tue>
+	       <wed></wed>
+	       <thu></thu>
+	       <fri></fri>
+	       <sat></sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Fona</type>
+	   <lat>54.7664683</lat>
+	   <lng>11.869453799999974</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Fona Næstved]]></name>
+	   <address>Næstved Storcenter 76</address>
+	   <city>4700 Næstved</city>
+	   <phone>5578 6400</phone>
+	   <fax>5572 1121</fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon></mon>
+	       <tue></tue>
+	       <wed></wed>
+	       <thu></thu>
+	       <fri></fri>
+	       <sat></sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Fona</type>
+	   <lat>55.253937</lat>
+	   <lng>11.781867000000034</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Fona Nørrebro]]></name>
+	   <address>Nørrebrogade 209B</address>
+	   <city>2200 Nørrebro</city>
+	   <phone>3583 7777</phone>
+	   <fax>3582 8009</fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon></mon>
+	       <tue></tue>
+	       <wed></wed>
+	       <thu></thu>
+	       <fri></fri>
+	       <sat></sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Fona</type>
+	   <lat>55.698433</lat>
+	   <lng>12.542200999999977</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Fona Nørrebro]]></name>
+	   <address>Lygten 2 M-3</address>
+	   <city>2400 Nørrebro</city>
+	   <phone>3583 0345</phone>
+	   <fax>3583 3865</fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon></mon>
+	       <tue></tue>
+	       <wed></wed>
+	       <thu></thu>
+	       <fri></fri>
+	       <sat></sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Fona</type>
+	   <lat>55.7021696</lat>
+	   <lng>12.53776700000003</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Fona Odense]]></name>
+	   <address>Rosengårdcentret 84</address>
+	   <city>5220 Odense</city>
+	   <phone>6615 9755</phone>
+	   <fax>6615 7955</fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon></mon>
+	       <tue></tue>
+	       <wed></wed>
+	       <thu></thu>
+	       <fri></fri>
+	       <sat></sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Fona</type>
+	   <lat>55.38446077748439</lat>
+	   <lng>10.427798580354306</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Fona Odense]]></name>
+	   <address>Vestergade 43</address>
+	   <city>5000 Odense</city>
+	   <phone>6613 8310</phone>
+	   <fax></fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon></mon>
+	       <tue></tue>
+	       <wed></wed>
+	       <thu></thu>
+	       <fri></fri>
+	       <sat></sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Fona</type>
+	   <lat>55.3954056</lat>
+	   <lng>10.38486940000007</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Fona Randers]]></name>
+	   <address>Merkurvej 55</address>
+	   <city>8900 Randers</city>
+	   <phone>8644 7266</phone>
+	   <fax></fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon></mon>
+	       <tue></tue>
+	       <wed></wed>
+	       <thu></thu>
+	       <fri></fri>
+	       <sat></sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Fona</type>
+	   <lat>56.429699</lat>
+	   <lng>10.06389999999999</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Fona Ro's Torv]]></name>
+	   <address>Ro's Torv, butik 16</address>
+	   <city>4000 Roskilde</city>
+	   <phone>4636 9400</phone>
+	   <fax>4635 1178</fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon></mon>
+	       <tue></tue>
+	       <wed></wed>
+	       <thu></thu>
+	       <fri></fri>
+	       <sat></sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Fona</type>
+	   <lat>55.64143771016224</lat>
+	   <lng>12.099635990829483</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Fona Roskilde]]></name>
+	   <address>Skomagergade 5-7</address>
+	   <city>4000 Roskilde</city>
+	   <phone>4636 6633</phone>
+	   <fax>4636 6929</fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon></mon>
+	       <tue></tue>
+	       <wed></wed>
+	       <thu></thu>
+	       <fri></fri>
+	       <sat></sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Fona</type>
+	   <lat>55.6409349</lat>
+	   <lng>12.079274599999962</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Fona Rødovre]]></name>
+	   <address>Rødovre Centrum 50</address>
+	   <city>2610 Rødovre</city>
+	   <phone>3641 1777</phone>
+	   <fax>3670 8376</fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon></mon>
+	       <tue></tue>
+	       <wed></wed>
+	       <thu></thu>
+	       <fri></fri>
+	       <sat></sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Fona</type>
+	   <lat>55.6789479</lat>
+	   <lng>12.458097100000032</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Fona Silkeborg]]></name>
+	   <address>Vestergade 8</address>
+	   <city>8600 Silkeborg</city>
+	   <phone>8682 5733</phone>
+	   <fax>8682 6233</fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon></mon>
+	       <tue></tue>
+	       <wed></wed>
+	       <thu></thu>
+	       <fri></fri>
+	       <sat></sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Fona</type>
+	   <lat>56.1687656</lat>
+	   <lng>9.54739810000001</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Fona Slagelse]]></name>
+	   <address>Vestsjællandscentret 15</address>
+	   <city>4200 Slagelse</city>
+	   <phone>5852 0916</phone>
+	   <fax>5850 3024</fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon></mon>
+	       <tue></tue>
+	       <wed></wed>
+	       <thu></thu>
+	       <fri></fri>
+	       <sat></sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Fona</type>
+	   <lat>55.40599335273964</lat>
+	   <lng>11.354891353477342</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Fona Storcenter Nord]]></name>
+	   <address>Storcenter Nord</address>
+	   <city>8200 Århus</city>
+	   <phone>8610 2544</phone>
+	   <fax>8610 7411</fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon></mon>
+	       <tue></tue>
+	       <wed></wed>
+	       <thu></thu>
+	       <fri></fri>
+	       <sat></sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Fona</type>
+	   <lat>56.169663299197865</lat>
+	   <lng>10.188675833428988</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Fona Svendborg]]></name>
+	   <address>Kattesundet 2</address>
+	   <city>5700 Svendborg</city>
+	   <phone>6221 1785</phone>
+	   <fax>6221 3885</fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon></mon>
+	       <tue></tue>
+	       <wed></wed>
+	       <thu></thu>
+	       <fri></fri>
+	       <sat></sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Fona</type>
+	   <lat>55.0594907</lat>
+	   <lng>10.609315199999969</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Fona Sønderborg]]></name>
+	   <address>Perlegade 30</address>
+	   <city>6400 Sønderborg</city>
+	   <phone>7442 1013</phone>
+	   <fax>7443 5690</fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon></mon>
+	       <tue></tue>
+	       <wed></wed>
+	       <thu></thu>
+	       <fri></fri>
+	       <sat></sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Fona</type>
+	   <lat>54.9108247</lat>
+	   <lng>9.790929699999992</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Fona Thisted]]></name>
+	   <address>Storegade 3</address>
+	   <city>7700 Thisted</city>
+	   <phone>9792 0077</phone>
+	   <fax>9791 0677</fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon></mon>
+	       <tue></tue>
+	       <wed></wed>
+	       <thu></thu>
+	       <fri></fri>
+	       <sat></sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Fona</type>
+	   <lat>56.9547291</lat>
+	   <lng>8.69160469999997</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Fona Valby]]></name>
+	   <address>Toftegårds Alle 9E</address>
+	   <city>2500 Valby</city>
+	   <phone>3617 5695</phone>
+	   <fax>3617 9028</fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon></mon>
+	       <tue></tue>
+	       <wed></wed>
+	       <thu></thu>
+	       <fri></fri>
+	       <sat></sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Fona</type>
+	   <lat>55.6656727</lat>
+	   <lng>12.51727870000002</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Fona Vejle]]></name>
+	   <address>Nørregade 14</address>
+	   <city>7100 Vejle</city>
+	   <phone>7582 7288</phone>
+	   <fax>7583 2165</fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon></mon>
+	       <tue></tue>
+	       <wed></wed>
+	       <thu></thu>
+	       <fri></fri>
+	       <sat></sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Fona</type>
+	   <lat>55.7102457</lat>
+	   <lng>9.534403399999974</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Fona Vesterbro]]></name>
+	   <address>Vesterbrogade 62</address>
+	   <city>1620 København</city>
+	   <phone>3324 2682</phone>
+	   <fax>3324 3037</fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon></mon>
+	       <tue></tue>
+	       <wed></wed>
+	       <thu></thu>
+	       <fri></fri>
+	       <sat></sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Fona</type>
+	   <lat>55.672695</lat>
+	   <lng>12.553061399999933</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Fona Viborg]]></name>
+	   <address>Sct. Mathias Centret 305</address>
+	   <city>8800 Viborg</city>
+	   <phone>8662 5266</phone>
+	   <fax>8662 0266</fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon></mon>
+	       <tue></tue>
+	       <wed></wed>
+	       <thu></thu>
+	       <fri></fri>
+	       <sat></sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Fona</type>
+	   <lat>56.448752</lat>
+	   <lng>9.40513599999997</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Fona Waves]]></name>
+	   <address>Over Bølgen 5H</address>
+	   <city>2670 Hundige</city>
+	   <phone>4390 6929</phone>
+	   <fax>4390 6866</fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon></mon>
+	       <tue></tue>
+	       <wed></wed>
+	       <thu></thu>
+	       <fri></fri>
+	       <sat></sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Fona</type>
+	   <lat>55.59885195492479</lat>
+	   <lng>12.327462726181011</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Fona Østerbro]]></name>
+	   <address>Østerbrogade 62</address>
+	   <city>2100 Østerbro</city>
+	   <phone>3542 6213</phone>
+	   <fax>3542 6339</fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon></mon>
+	       <tue></tue>
+	       <wed></wed>
+	       <thu></thu>
+	       <fri></fri>
+	       <sat></sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Fona</type>
+	   <lat>55.6982241</lat>
+	   <lng>12.578921600000058</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Fona Østerbro]]></name>
+	   <address>Østerbrogade 80</address>
+	   <city>2100 Østerbro</city>
+	   <phone>3542 1010</phone>
+	   <fax>3542 0385</fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon></mon>
+	       <tue></tue>
+	       <wed></wed>
+	       <thu></thu>
+	       <fri></fri>
+	       <sat></sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Fona</type>
+	   <lat>55.700193</lat>
+	   <lng>12.57763060000002</lng>
+	</shop>
+	
+	<shop>
+	   <name><![CDATA[Telekæden Albertslund BusinessCom]]></name>
+	   <address>Ledøjevej 30</address>
+	   <city>2620 Albertslund</city>
+	   <phone>43431337</phone>
+	   <fax></fax>
+	   <email>js@BusinessCom.dk</email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon></mon>
+	       <tue></tue>
+	       <wed></wed>
+	       <thu></thu>
+	       <fri></fri>
+	       <sat></sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Telekæden</type>
+	   <lat>55.6905969</lat>
+	   <lng>12.325534299999958</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Telekæden Ålborg]]></name>
+	   <address>Vejgaard Torv 1</address>
+	   <city>9000 Aalborg</city>
+	   <phone>98120810</phone>
+	   <fax></fax>
+	   <email>vejgaard@telekaeden.dk</email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon></mon>
+	       <tue></tue>
+	       <wed></wed>
+	       <thu></thu>
+	       <fri></fri>
+	       <sat></sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Telekæden</type>
+	   <lat>57.04234</lat>
+	   <lng>9.94981400000006</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Telekæden Amager]]></name>
+	   <address>Amagerbrogade 207</address>
+	   <city>2300 København</city>
+	   <phone>32574600</phone>
+	   <fax></fax>
+	   <email>amager@telekaeden.dk</email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon></mon>
+	       <tue></tue>
+	       <wed></wed>
+	       <thu></thu>
+	       <fri></fri>
+	       <sat></sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Telekæden</type>
+	   <lat>55.649608</lat>
+	   <lng>12.613065000000006</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Telekæden Assens]]></name>
+	   <address>Østergade 13</address>
+	   <city>5610 Assens</city>
+	   <phone>64741900</phone>
+	   <fax></fax>
+	   <email>support@pccenteret.dk</email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon></mon>
+	       <tue></tue>
+	       <wed></wed>
+	       <thu></thu>
+	       <fri></fri>
+	       <sat></sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Telekæden</type>
+	   <lat>55.2700114</lat>
+	   <lng>9.894767000000002</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Telekæden Bornholm]]></name>
+	   <address>Havnen 1</address>
+	   <city>3730 Rønne</city>
+	   <phone>56491245</phone>
+	   <fax></fax>
+	   <email>salg@denskaevetid.dk</email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon></mon>
+	       <tue></tue>
+	       <wed></wed>
+	       <thu></thu>
+	       <fri></fri>
+	       <sat></sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Telekæden</type>
+	   <lat>55.0998892</lat>
+	   <lng>14.692885799999999</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Telekæden Brande]]></name>
+	   <address>Torvet 2C</address>
+	   <city>7330 Brande</city>
+	   <phone>97182013</phone>
+	   <fax></fax>
+	   <email>mj@telebent.dk</email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon></mon>
+	       <tue></tue>
+	       <wed></wed>
+	       <thu></thu>
+	       <fri></fri>
+	       <sat></sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Telekæden</type>
+	   <lat>55.943022</lat>
+	   <lng>9.128096000000028</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Telekæden Bruuns]]></name>
+	   <address>M. P. Bruuns gade 25</address>
+	   <city>8000 Århus</city>
+	   <phone>86180611</phone>
+	   <fax></fax>
+	   <email>bruuns1@telekaeden.dk</email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon></mon>
+	       <tue></tue>
+	       <wed></wed>
+	       <thu></thu>
+	       <fri></fri>
+	       <sat></sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Telekæden</type>
+	   <lat>56.149037</lat>
+	   <lng>10.203348000000005</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Telekæden Brøndby]]></name>
+	   <address>Vallensbækvej 22A</address>
+	   <city>2605 Brøndby</city>
+	   <phone>45950000</phone>
+	   <fax></fax>
+	   <email>salg@teleware.dk</email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon></mon>
+	       <tue></tue>
+	       <wed></wed>
+	       <thu></thu>
+	       <fri></fri>
+	       <sat></sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Telekæden</type>
+	   <lat>55.6433988</lat>
+	   <lng>12.39182249999999</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Telekæden Brøndby 2M mobil]]></name>
+	   <address>Skagensgade 37 St.</address>
+	   <city>2630 Tåstrup</city>
+	   <phone>53309191</phone>
+	   <fax></fax>
+	   <email>info@2mmobil.dk</email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon></mon>
+	       <tue></tue>
+	       <wed></wed>
+	       <thu></thu>
+	       <fri></fri>
+	       <sat></sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Telekæden</type>
+	   <lat>55.6493672</lat>
+	   <lng>12.268080800000007</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Telekæden Esbjerg Lindpro]]></name>
+	   <address>Bådebrogade 1</address>
+	   <city>6700 Esbjerg</city>
+	   <phone>76114900</phone>
+	   <fax></fax>
+	   <email>svne@lindpro.dk</email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon></mon>
+	       <tue></tue>
+	       <wed></wed>
+	       <thu></thu>
+	       <fri></fri>
+	       <sat></sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Telekæden</type>
+	   <lat>55.479071</lat>
+	   <lng>8.42705860000001</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Telekæden Falkoner 65]]></name>
+	   <address>Falkoner Allé 65</address>
+	   <city>2000 Frederiksberg</city>
+	   <phone>38333835</phone>
+	   <fax></fax>
+	   <email>mobilservice65@hotmail.com</email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon></mon>
+	       <tue></tue>
+	       <wed></wed>
+	       <thu></thu>
+	       <fri></fri>
+	       <sat></sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Telekæden</type>
+	   <lat>55.6859679</lat>
+	   <lng>12.539176699999985</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Telekæden, Middelfart]]></name>
+	   <address>Østergade 14 B</address>
+	   <city>5500 Middelfart</city>
+	   <phone>64851262</phone>
+	   <fax></fax>
+	   <email>broby@telekaeden.dk</email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon></mon>
+	       <tue></tue>
+	       <wed></wed>
+	       <thu></thu>
+	       <fri></fri>
+	       <sat></sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Telekæden</type>
+	   <lat>55.5041516</lat>
+	   <lng>9.73662139999999</lng>
+	</shop>
+    <shop>
+        <name><![CDATA[Telekæden Frederiksberg/H.C. Ørstedsvej]]></name>
+        <address>H.C. Ørstedsvej 43 B, St.</address>
+        <city>1879 Frederiksberg</city>
+        <phone>48419603</phone>
+        <fax></fax>
+        <email>butik@tkhc.dk</email>
+        <manager></manager>
+        <openinghours>
+            <mon></mon>
+            <tue></tue>
+            <wed></wed>
+            <thu></thu>
+            <fri></fri>
+            <sat></sat>
+            <sun></sun>
+            <notes></notes>
+        </openinghours>
+        <type>Telekæden</type>
+        <lat>55.6816191</lat>
+        <lng>12.549384499999974</lng>
+    </shop>
+    <shop>
+        <name><![CDATA[Telekæden Frederikshavn Erhverv]]></name>
+        <address>Grønlandsvej 22C</address>
+        <city>9900 Frederikshavn</city>
+        <phone>96169990</phone>
+        <fax></fax>
+        <email>tcl@mobilcenternord.dk</email>
+        <manager></manager>
+        <openinghours>
+            <mon></mon>
+            <tue></tue>
+            <wed></wed>
+            <thu></thu>
+            <fri></fri>
+            <sat></sat>
+            <sun></sun>
+            <notes></notes>
+        </openinghours>
+        <type>Telekæden</type>
+        <lat>57.446136</lat>
+        <lng>10.502651199999946</lng>
+    </shop>
+    <shop>
+        <name><![CDATA[Telekæden Frederikssund]]></name>
+        <address>Nygade 1, st.</address>
+        <city>3600 Frederikssund</city>
+        <phone>70226465</phone>
+        <fax></fax>
+        <email>tele.3600@tkmobil.dk</email>
+        <manager></manager>
+        <openinghours>
+            <mon></mon>
+            <tue></tue>
+            <wed></wed>
+            <thu></thu>
+            <fri></fri>
+            <sat></sat>
+            <sun></sun>
+            <notes></notes>
+        </openinghours>
+        <type>Telekæden</type>
+        <lat>55.8365605</lat>
+        <lng>12.06440729999997</lng>
+    </shop>
+    <shop>
+        <name><![CDATA[Telekæden Grenaa]]></name>
+        <address>Havnevej 10</address>
+        <city>8500 Grenaa</city>
+        <phone>86323333</phone>
+        <fax></fax>
+        <email>bonnie@bnj-teknik.dk</email>
+        <manager></manager>
+        <openinghours>
+            <mon></mon>
+            <tue></tue>
+            <wed></wed>
+            <thu></thu>
+            <fri></fri>
+            <sat></sat>
+            <sun></sun>
+            <notes></notes>
+        </openinghours>
+        <type>Telekæden</type>
+        <lat>56.4141419</lat>
+        <lng>10.890429400000016</lng>
+    </shop>
+    <shop>
+        <name><![CDATA[Telekæden Greve Erhverv]]></name>
+        <address>Hejren 30</address>
+        <city>2670 Greve</city>
+        <phone>43320050</phone>
+        <fax></fax>
+        <email>salg@nordicmobility.dk</email>
+        <manager></manager>
+        <openinghours>
+            <mon></mon>
+            <tue></tue>
+            <wed></wed>
+            <thu></thu>
+            <fri></fri>
+            <sat></sat>
+            <sun></sun>
+            <notes></notes>
+        </openinghours>
+        <type>Telekæden</type>
+        <lat>55.5933053</lat>
+        <lng>12.353670500000021</lng>
+    </shop>
+    <shop>
+        <name><![CDATA[Telekæden Haderslev]]></name>
+        <address>Christian X's Vej 2</address>
+        <city>6100 Haderslev</city>
+        <phone>74123370</phone>
+        <fax></fax>
+        <email>haderslev@telekaeden.dk</email>
+        <manager></manager>
+        <openinghours>
+            <mon></mon>
+            <tue></tue>
+            <wed></wed>
+            <thu></thu>
+            <fri></fri>
+            <sat></sat>
+            <sun></sun>
+            <notes></notes>
+        </openinghours>
+        <type>Telekæden</type>
+        <lat>55.264881</lat>
+        <lng>9.496608000000037</lng>
+    </shop>
+    <shop>
+        <name><![CDATA[Telekæden Helsinge]]></name>
+        <address>Bomose Alle 9</address>
+        <city>3200 Helsinge</city>
+        <phone>48799011</phone>
+        <fax></fax>
+        <email>helsinge@tc-helsinge.dk</email>
+        <manager></manager>
+        <openinghours>
+            <mon></mon>
+            <tue></tue>
+            <wed></wed>
+            <thu></thu>
+            <fri></fri>
+            <sat></sat>
+            <sun></sun>
+            <notes></notes>
+        </openinghours>
+        <type>Telekæden</type>
+        <lat>56.019693</lat>
+        <lng>12.174546999999961</lng>
+    </shop>
+    <shop>
+        <name><![CDATA[Telekæden Herlev Bymidte]]></name>
+        <address>Herlev Bymidte Butikscenter 22</address>
+        <city>2730 Herlev</city>
+        <phone>44913439</phone>
+        <fax></fax>
+        <email>foto@fotocentrum.dk</email>
+        <manager></manager>
+        <openinghours>
+            <mon></mon>
+            <tue></tue>
+            <wed></wed>
+            <thu></thu>
+            <fri></fri>
+            <sat></sat>
+            <sun></sun>
+            <notes></notes>
+        </openinghours>
+        <type>Telekæden</type>
+        <lat>55.72433897691065</lat>
+        <lng>12.439001613895812</lng>
+    </shop>
+    <shop>
+        <name><![CDATA[Telekæden Herlufmagle]]></name>
+        <address>Hammervej 2</address>
+        <city>4160 Herlufmagle</city>
+        <phone>55501532</phone>
+        <fax></fax>
+        <email>info@midtsj-radio.dk</email>
+        <manager></manager>
+        <openinghours>
+            <mon></mon>
+            <tue></tue>
+            <wed></wed>
+            <thu></thu>
+            <fri></fri>
+            <sat></sat>
+            <sun></sun>
+            <notes></notes>
+        </openinghours>
+        <type>Telekæden</type>
+        <lat>55.313331</lat>
+        <lng>11.742207000000008</lng>
+    </shop>
+    <shop>
+        <name><![CDATA[Telekæden Herning]]></name>
+        <address>Silkeborgvej 14</address>
+        <city>7400 Herning</city>
+        <phone>96268300</phone>
+        <fax></fax>
+        <email>mail@dantell.dk</email>
+        <manager></manager>
+        <openinghours>
+            <mon></mon>
+            <tue></tue>
+            <wed></wed>
+            <thu></thu>
+            <fri></fri>
+            <sat></sat>
+            <sun></sun>
+            <notes></notes>
+        </openinghours>
+        <type>Telekæden</type>
+        <lat>56.1349247</lat>
+        <lng>8.985435400000028</lng>
+    </shop>
+    <shop>
+        <name><![CDATA[Telekæden Hjørring Erhverv]]></name>
+        <address>Sæbyvej 12</address>
+        <city>9800 Hjørring</city>
+        <phone>98900600</phone>
+        <fax></fax>
+        <email>kaj@abc-radiotelefon.dk</email>
+        <manager></manager>
+        <openinghours>
+            <mon></mon>
+            <tue></tue>
+            <wed></wed>
+            <thu></thu>
+            <fri></fri>
+            <sat></sat>
+            <sun></sun>
+            <notes></notes>
+        </openinghours>
+        <type>Telekæden</type>
+        <lat>57.4475451</lat>
+        <lng>10.012189199999966</lng>
+    </shop>
+    <shop>
+        <name><![CDATA[Telekæden Holbæk]]></name>
+        <address>Ahlgade 74D</address>
+        <city>4300 Holbæk</city>
+        <phone>59441761</phone>
+        <fax></fax>
+        <email>holbaek@telekaeden.dk</email>
+        <manager></manager>
+        <openinghours>
+            <mon></mon>
+            <tue></tue>
+            <wed></wed>
+            <thu></thu>
+            <fri></fri>
+            <sat></sat>
+            <sun></sun>
+            <notes></notes>
+        </openinghours>
+        <type>Telekæden</type>
+        <lat>55.7166976</lat>
+        <lng>11.715646800000059</lng>
+    </shop>
+    <shop>
+        <name><![CDATA[Telekæden Holte]]></name>
+        <address>Holte Midtpunkt 8-9</address>
+        <city>2840 Holte</city>
+        <phone>45420717</phone>
+        <fax></fax>
+        <email>mail@imageholte.dk</email>
+        <manager></manager>
+        <openinghours>
+            <mon></mon>
+            <tue></tue>
+            <wed></wed>
+            <thu></thu>
+            <fri></fri>
+            <sat></sat>
+            <sun></sun>
+            <notes></notes>
+        </openinghours>
+        <type>Telekæden</type>
+        <lat>55.811603</lat>
+        <lng>12.47058800000002</lng>
+    </shop>
+    <shop>
+        <name><![CDATA[Telekæden Horsens]]></name>
+        <address>Søndergade 10-14</address>
+        <city>8700 Horsens</city>
+        <phone>75621255</phone>
+        <fax></fax>
+        <email>mail@hp-teknik.dk</email>
+        <manager></manager>
+        <openinghours>
+            <mon></mon>
+            <tue></tue>
+            <wed></wed>
+            <thu></thu>
+            <fri></fri>
+            <sat></sat>
+            <sun></sun>
+            <notes></notes>
+        </openinghours>
+        <type>Telekæden</type>
+        <lat>55.8618401</lat>
+        <lng>9.846075000000042</lng>
+    </shop>
+    <shop>
+        <name><![CDATA[Telekæden Horsens Attech Computer]]></name>
+        <address>Lokesallé 30</address>
+        <city>8700 Horsens</city>
+        <phone>75631010</phone>
+        <fax></fax>
+        <email>post@attech.dk</email>
+        <manager></manager>
+        <openinghours>
+            <mon></mon>
+            <tue></tue>
+            <wed></wed>
+            <thu></thu>
+            <fri></fri>
+            <sat></sat>
+            <sun></sun>
+            <notes></notes>
+        </openinghours>
+        <type>Telekæden</type>
+        <lat>55.8480012</lat>
+        <lng>9.821893199999977</lng>
+    </shop>
+    <shop>
+        <name><![CDATA[Telekæden Hørsholm]]></name>
+        <address>Hørsholm Midtpunkt 172</address>
+        <city>2970 Hørsholm</city>
+        <phone>45761581</phone>
+        <fax></fax>
+        <email>tele2970@tkmobil.dk</email>
+        <manager></manager>
+        <openinghours>
+            <mon></mon>
+            <tue></tue>
+            <wed></wed>
+            <thu></thu>
+            <fri></fri>
+            <sat></sat>
+            <sun></sun>
+            <notes></notes>
+        </openinghours>
+        <type>Telekæden</type>
+        <lat>55.882166</lat>
+        <lng>12.495745700000043</lng>
+    </shop>
+    <shop>
+        <name><![CDATA[Telekæden Korsør]]></name>
+        <address>Algade 50</address>
+        <city>4220 Korsør</city>
+        <phone>59592030</phone>
+        <fax></fax>
+        <email>holm01@a2a.dk</email>
+        <manager></manager>
+        <openinghours>
+            <mon></mon>
+            <tue></tue>
+            <wed></wed>
+            <thu></thu>
+            <fri></fri>
+            <sat></sat>
+            <sun></sun>
+            <notes></notes>
+        </openinghours>
+        <type>Telekæden</type>
+        <lat>55.3297173</lat>
+        <lng>11.137529200000017</lng>
+    </shop>
+    <shop>
+        <name><![CDATA[Telekæden København NV]]></name>
+        <address>Frederikssundsvej 16</address>
+        <city>2400 København NV</city>
+        <phone>35838391</phone>
+        <fax></fax>
+        <email>a_awkatii@yahoo.co.uk</email>
+        <manager></manager>
+        <openinghours>
+            <mon></mon>
+            <tue></tue>
+            <wed></wed>
+            <thu></thu>
+            <fri></fri>
+            <sat></sat>
+            <sun></sun>
+            <notes></notes>
+        </openinghours>
+        <type>Telekæden</type>
+        <lat>55.7015357</lat>
+        <lng>12.535570300000018</lng>
+    </shop>
+    <shop>
+        <name><![CDATA[Telekæden Lemvig]]></name>
+        <address>Rugmarken 3A</address>
+        <city>7620 Lemvig</city>
+        <phone>96630006</phone>
+        <fax></fax>
+        <email>info@lemvig-infodata.dk</email>
+        <manager></manager>
+        <openinghours>
+            <mon></mon>
+            <tue></tue>
+            <wed></wed>
+            <thu></thu>
+            <fri></fri>
+            <sat></sat>
+            <sun></sun>
+            <notes></notes>
+        </openinghours>
+        <type>Telekæden</type>
+        <lat>56.547275</lat>
+        <lng>8.335540900000069</lng>
+    </shop>
+    <shop>
+        <name><![CDATA[Telekæden Løgstør]]></name>
+        <address>Østerbrogade 25</address>
+        <city>9670 Løgstør</city>
+        <phone>98671566</phone>
+        <fax></fax>
+        <email>6292@bogpost.dk</email>
+        <manager></manager>
+        <openinghours>
+            <mon></mon>
+            <tue></tue>
+            <wed></wed>
+            <thu></thu>
+            <fri></fri>
+            <sat></sat>
+            <sun></sun>
+            <notes></notes>
+        </openinghours>
+        <type>Telekæden</type>
+        <lat>56.96842</lat>
+        <lng>9.252551799999992</lng>
+    </shop>
+    <shop>
+        <name><![CDATA[Telekæden Løgten]]></name>
+        <address>Grenåvej 766</address>
+        <city>8541 Løgten</city>
+        <phone>86225577</phone>
+        <fax></fax>
+        <email>al@egaa.dk</email>
+        <manager></manager>
+        <openinghours>
+            <mon></mon>
+            <tue></tue>
+            <wed></wed>
+            <thu></thu>
+            <fri></fri>
+            <sat></sat>
+            <sun></sun>
+            <notes></notes>
+        </openinghours>
+        <type>Telekæden</type>
+        <lat>56.277706</lat>
+        <lng>10.317573000000039</lng>
+    </shop>
+    <shop>
+        <name><![CDATA[Telekæden Nr. Broby]]></name>
+        <address>Østerågade 28</address>
+        <city>5672 Nr. Broby</city>
+        <phone>62631262</phone>
+        <fax></fax>
+        <email>broby@telekaeden.dk</email>
+        <manager></manager>
+        <openinghours>
+            <mon></mon>
+            <tue></tue>
+            <wed></wed>
+            <thu></thu>
+            <fri></fri>
+            <sat></sat>
+            <sun></sun>
+            <notes></notes>
+        </openinghours>
+        <type>Telekæden</type>
+        <lat>55.2548274</lat>
+        <lng>10.23560150000003</lng>
+    </shop>
+    <shop>
+        <name><![CDATA[Telekæden Nykøbing F. Erhverv]]></name>
+        <address>Nordre Ringvej 4</address>
+        <city>4800 Nykøbing F.</city>
+        <phone>54852844</phone>
+        <fax></fax>
+        <email>rasmus@hj-service.dk</email>
+        <manager></manager>
+        <openinghours>
+            <mon></mon>
+            <tue></tue>
+            <wed></wed>
+            <thu></thu>
+            <fri></fri>
+            <sat></sat>
+            <sun></sun>
+            <notes></notes>
+        </openinghours>
+        <type>Telekæden</type>
+        <lat>54.7823633</lat>
+        <lng>11.868599099999983</lng>
+    </shop>
+    <shop>
+        <name><![CDATA[Telekæden Nørrebro 197]]></name>
+        <address>Nørrebrogade 197</address>
+        <city>2200 København</city>
+        <phone>35824182</phone>
+        <fax></fax>
+        <email>teleringen_norrebro@yahoo.dk</email>
+        <manager></manager>
+        <openinghours>
+            <mon></mon>
+            <tue></tue>
+            <wed></wed>
+            <thu></thu>
+            <fri></fri>
+            <sat></sat>
+            <sun></sun>
+            <notes></notes>
+        </openinghours>
+        <type>Telekæden</type>
+        <lat>55.6973955</lat>
+        <lng>12.543977400000017</lng>
+    </shop>
+    <shop>
+        <name><![CDATA[Telekæden Nørrebro 63]]></name>
+        <address>Nørrebrogade 63</address>
+        <city>2200 København</city>
+        <phone>35353442</phone>
+        <fax></fax>
+        <email>televerden@yahoo.dk</email>
+        <manager></manager>
+        <openinghours>
+            <mon></mon>
+            <tue></tue>
+            <wed></wed>
+            <thu></thu>
+            <fri></fri>
+            <sat></sat>
+            <sun></sun>
+            <notes></notes>
+        </openinghours>
+        <type>Telekæden</type>
+        <lat>55.6902925</lat>
+        <lng>12.55455870000003</lng>
+    </shop>
+    <shop>
+        <name><![CDATA[Telekæden Odder]]></name>
+        <address>Banegårdsgade 15</address>
+        <city>8300 Odder</city>
+        <phone>87800709</phone>
+        <fax></fax>
+        <email>odder@telekaeden.dk</email>
+        <manager></manager>
+        <openinghours>
+            <mon></mon>
+            <tue></tue>
+            <wed></wed>
+            <thu></thu>
+            <fri></fri>
+            <sat></sat>
+            <sun></sun>
+            <notes></notes>
+        </openinghours>
+        <type>Telekæden</type>
+        <lat>55.9708141</lat>
+        <lng>10.14951110000004</lng>
+    </shop>
+    <shop>
+        <name><![CDATA[Telekæden Odense Team Mobil]]></name>
+        <address>Falen 27</address>
+        <city>5000 Odense</city>
+        <phone>63120046</phone>
+        <fax></fax>
+        <email>skr@teammobil.dk</email>
+        <manager></manager>
+        <openinghours>
+            <mon></mon>
+            <tue></tue>
+            <wed></wed>
+            <thu></thu>
+            <fri></fri>
+            <sat></sat>
+            <sun></sun>
+            <notes></notes>
+        </openinghours>
+        <type>Telekæden</type>
+        <lat>55.392398</lat>
+        <lng>10.37426000000005</lng>
+    </shop>
+    <shop>
+        <name><![CDATA[Telekæden Odense Tele Call]]></name>
+        <address>Svenstrupvej 63</address>
+        <city>5260 Odense</city>
+        <phone>63120046</phone>
+        <fax></fax>
+        <email>info@telecall.dk</email>
+        <manager></manager>
+        <openinghours>
+            <mon></mon>
+            <tue></tue>
+            <wed></wed>
+            <thu></thu>
+            <fri></fri>
+            <sat></sat>
+            <sun></sun>
+            <notes></notes>
+        </openinghours>
+        <type>Telekæden</type>
+        <lat>55.338596</lat>
+        <lng>10.346726999999987</lng>
+    </shop>
+    <shop>
+        <name><![CDATA[Telekæden Odense Vesterbro]]></name>
+        <address>Vesterbro 5</address>
+        <city>5000 Odense</city>
+        <phone>65951170</phone>
+        <fax></fax>
+        <email>teleodense@hotmail.com</email>
+        <manager></manager>
+        <openinghours>
+            <mon></mon>
+            <tue></tue>
+            <wed></wed>
+            <thu></thu>
+            <fri></fri>
+            <sat></sat>
+            <sun></sun>
+            <notes></notes>
+        </openinghours>
+        <type>Telekæden</type>
+        <lat>55.3938264</lat>
+        <lng>10.379412399999978</lng>
+    </shop>
+    <shop>
+        <name><![CDATA[Telekæden Padborg]]></name>
+        <address>Dammen 2</address>
+        <city>6330 Padborg</city>
+        <phone>74123360</phone>
+        <fax></fax>
+        <email>sh@kontorsyd.dk</email>
+        <manager></manager>
+        <openinghours>
+            <mon></mon>
+            <tue></tue>
+            <wed></wed>
+            <thu></thu>
+            <fri></fri>
+            <sat></sat>
+            <sun></sun>
+            <notes></notes>
+        </openinghours>
+        <type>Telekæden</type>
+        <lat>54.8239396</lat>
+        <lng>9.354124299999967</lng>
+    </shop>
+    <shop>
+        <name><![CDATA[Telekæden Randers]]></name>
+        <address>Jomfruløkken 4</address>
+        <city>8900 Randers</city>
+        <phone>86438600</phone>
+        <fax></fax>
+        <email>randers@telekaeden.dk</email>
+        <manager></manager>
+        <openinghours>
+            <mon></mon>
+            <tue></tue>
+            <wed></wed>
+            <thu></thu>
+            <fri></fri>
+            <sat></sat>
+            <sun></sun>
+            <notes></notes>
+        </openinghours>
+        <type>Telekæden</type>
+        <lat>56.487144</lat>
+        <lng>10.04541800000004</lng>
+    </shop>
+    <shop>
+        <name><![CDATA[Telekæden Roskilde Erhverv]]></name>
+        <address>Nymarksvej 3</address>
+        <city>4000 Roskilde</city>
+        <phone>46741741</phone>
+        <fax></fax>
+        <email>ko@tele-netto.dk</email>
+        <manager></manager>
+        <openinghours>
+            <mon></mon>
+            <tue></tue>
+            <wed></wed>
+            <thu></thu>
+            <fri></fri>
+            <sat></sat>
+            <sun></sun>
+            <notes></notes>
+        </openinghours>
+        <type>Telekæden</type>
+        <lat>55.6454211</lat>
+        <lng>12.112296499999957</lng>
+    </shop>
+    <shop>
+        <name><![CDATA[Telekæden Roskilde Erhvervscenter]]></name>
+        <address>Københavnsvej 106 F</address>
+        <city>4000 Roskilde</city>
+        <phone>46770200</phone>
+        <fax></fax>
+        <email>roskilde@telekaeden.dk</email>
+        <manager></manager>
+        <openinghours>
+            <mon></mon>
+            <tue></tue>
+            <wed></wed>
+            <thu></thu>
+            <fri></fri>
+            <sat></sat>
+            <sun></sun>
+            <notes></notes>
+        </openinghours>
+        <type>Telekæden</type>
+        <lat>55.6420971</lat>
+        <lng>12.11311139999998</lng>
+    </shop>
+    <shop>
+        <name><![CDATA[Telekæden Rudkøbing]]></name>
+        <address>Ørstedsgade 26</address>
+        <city>5900 Rudkøbing</city>
+        <phone>62513420</phone>
+        <fax></fax>
+        <email>Rudkoebing@telekaeden.dk</email>
+        <manager></manager>
+        <openinghours>
+            <mon></mon>
+            <tue></tue>
+            <wed></wed>
+            <thu></thu>
+            <fri></fri>
+            <sat></sat>
+            <sun></sun>
+            <notes></notes>
+        </openinghours>
+        <type>Telekæden</type>
+        <lat>54.9371829</lat>
+        <lng>10.714038999999957</lng>
+    </shop>
+    <shop>
+        <name><![CDATA[Telekæden Skanderborg]]></name>
+        <address>Vestergade 16C</address>
+        <city>8660 Skanderborg</city>
+        <phone>89939345</phone>
+        <fax></fax>
+        <email>salg@multisupply.dk</email>
+        <manager></manager>
+        <openinghours>
+            <mon></mon>
+            <tue></tue>
+            <wed></wed>
+            <thu></thu>
+            <fri></fri>
+            <sat></sat>
+            <sun></sun>
+            <notes></notes>
+        </openinghours>
+        <type>Telekæden</type>
+        <lat>56.032752</lat>
+        <lng>9.929430899999943</lng>
+    </shop>
+    <shop>
+        <name><![CDATA[Telekæden Skælskør]]></name>
+        <address>Algade 17</address>
+        <city>4230 Skælskør</city>
+        <phone>58502030</phone>
+        <fax></fax>
+        <email>holm@a2a.dk</email>
+        <manager></manager>
+        <openinghours>
+            <mon></mon>
+            <tue></tue>
+            <wed></wed>
+            <thu></thu>
+            <fri></fri>
+            <sat></sat>
+            <sun></sun>
+            <notes></notes>
+        </openinghours>
+        <type>Telekæden</type>
+        <lat>55.2536513</lat>
+        <lng>11.293538799999965</lng>
+    </shop>
+    <shop>
+        <name><![CDATA[Telekæden Sorø]]></name>
+        <address>Absalonsgade 1 a</address>
+        <city>4180 Sorø</city>
+        <phone>57820060</phone>
+        <fax></fax>
+        <email>soroe@telekaeden.dk</email>
+        <manager></manager>
+        <openinghours>
+            <mon></mon>
+            <tue></tue>
+            <wed></wed>
+            <thu></thu>
+            <fri></fri>
+            <sat></sat>
+            <sun></sun>
+            <notes></notes>
+        </openinghours>
+        <type>Telekæden</type>
+        <lat>55.4346261</lat>
+        <lng>11.55863869999996</lng>
+    </shop>
+    <shop>
+        <name><![CDATA[Telekæden Struer Data]]></name>
+        <address>Fælledvej 1</address>
+        <city>7600 Struer</city>
+        <phone>97840102</phone>
+        <fax></fax>
+        <email>Salg@struerdata.dk</email>
+        <manager></manager>
+        <openinghours>
+            <mon></mon>
+            <tue></tue>
+            <wed></wed>
+            <thu></thu>
+            <fri></fri>
+            <sat></sat>
+            <sun></sun>
+            <notes></notes>
+        </openinghours>
+        <type>Telekæden</type>
+        <lat>56.4794428</lat>
+        <lng>8.581486300000051</lng>
+    </shop>
+    <shop>
+        <name><![CDATA[Telekæden Støvring]]></name>
+        <address>Jernbanegade 15</address>
+        <city>9530 Støvring</city>
+        <phone>98372428</phone>
+        <fax></fax>
+        <email>dachs@mail.dk</email>
+        <manager></manager>
+        <openinghours>
+            <mon></mon>
+            <tue></tue>
+            <wed></wed>
+            <thu></thu>
+            <fri></fri>
+            <sat></sat>
+            <sun></sun>
+            <notes></notes>
+        </openinghours>
+        <type>Telekæden</type>
+        <lat>56.892142</lat>
+        <lng>9.83989500000007</lng>
+    </shop>
+    <shop>
+        <name><![CDATA[Telekæden Sønderborg]]></name>
+        <address>Elholm 2</address>
+        <city>6400 Sønderborg</city>
+        <phone>74123380</phone>
+        <fax></fax>
+        <email>pl@kontorsyd.dk</email>
+        <manager></manager>
+        <openinghours>
+            <mon></mon>
+            <tue></tue>
+            <wed></wed>
+            <thu></thu>
+            <fri></fri>
+            <sat></sat>
+            <sun></sun>
+            <notes></notes>
+        </openinghours>
+        <type>Telekæden</type>
+        <lat>54.923717</lat>
+        <lng>9.788145999999983</lng>
+    </shop>
+    <shop>
+        <name><![CDATA[Telekæden Tarm]]></name>
+        <address>Centervej 3</address>
+        <city>6880 Tarm</city>
+        <phone>97376737</phone>
+        <fax></fax>
+        <email>tarm@telekaeden.dk</email>
+        <manager></manager>
+        <openinghours>
+            <mon></mon>
+            <tue></tue>
+            <wed></wed>
+            <thu></thu>
+            <fri></fri>
+            <sat></sat>
+            <sun></sun>
+            <notes></notes>
+        </openinghours>
+        <type>Telekæden</type>
+        <lat>55.91516</lat>
+        <lng>8.519487000000026</lng>
+    </shop>
+    <shop>
+        <name><![CDATA[Telekæden Thisted]]></name>
+        <address>Havnen 35</address>
+        <city>7700 Thisted</city>
+        <phone>96198200</phone>
+        <fax></fax>
+        <email>info@tkthisted.dk</email>
+        <manager></manager>
+        <openinghours>
+            <mon></mon>
+            <tue></tue>
+            <wed></wed>
+            <thu></thu>
+            <fri></fri>
+            <sat></sat>
+            <sun></sun>
+            <notes></notes>
+        </openinghours>
+        <type>Telekæden</type>
+        <lat>56.9533523</lat>
+        <lng>8.693904100000054</lng>
+    </shop>
+    <shop>
+        <name><![CDATA[Telekæden Vejen]]></name>
+        <address>Jacob Gades Allé 2</address>
+        <city>6600 Vejen</city>
+        <phone>74123350</phone>
+        <fax></fax>
+        <email>vejen@kontorsyd.dk</email>
+        <manager></manager>
+        <openinghours>
+            <mon></mon>
+            <tue></tue>
+            <wed></wed>
+            <thu></thu>
+            <fri></fri>
+            <sat></sat>
+            <sun></sun>
+            <notes></notes>
+        </openinghours>
+        <type>Telekæden</type>
+        <lat>55.472478</lat>
+        <lng>9.127373000000034</lng>
+    </shop>
+    <shop>
+        <name><![CDATA[Telekæden Vejle Inter-Com]]></name>
+        <address>Ladegårdsvej 22</address>
+        <city>7100 Vejle</city>
+        <phone>75858166</phone>
+        <fax></fax>
+        <email>ole@inter-com.dk</email>
+        <manager></manager>
+        <openinghours>
+            <mon></mon>
+            <tue></tue>
+            <wed></wed>
+            <thu></thu>
+            <fri></fri>
+            <sat></sat>
+            <sun></sun>
+            <notes></notes>
+        </openinghours>
+        <type>Telekæden</type>
+        <lat>55.677717</lat>
+        <lng>9.571323000000007</lng>
+    </shop>
+    <shop>
+        <name><![CDATA[Telekæden Vesterbro 111]]></name>
+        <address>Vesterbrogade 111</address>
+        <city>1620 København</city>
+        <phone>33222517</phone>
+        <fax></fax>
+        <email>info@vesterbrotelekom.dk</email>
+        <manager></manager>
+        <openinghours>
+            <mon></mon>
+            <tue></tue>
+            <wed></wed>
+            <thu></thu>
+            <fri></fri>
+            <sat></sat>
+            <sun></sun>
+            <notes></notes>
+        </openinghours>
+        <type>Telekæden</type>
+        <lat>55.6711587</lat>
+        <lng>12.544392099999982</lng>
+    </shop>
+    <shop>
+        <name><![CDATA[Telekæden Vesterbro 82]]></name>
+        <address>Vesterbrogade 82</address>
+        <city>1620 København</city>
+        <phone>33250163</phone>
+        <fax></fax>
+        <email>televesterbro@yahoo.dk</email>
+        <manager></manager>
+        <openinghours>
+            <mon></mon>
+            <tue></tue>
+            <wed></wed>
+            <thu></thu>
+            <fri></fri>
+            <sat></sat>
+            <sun></sun>
+            <notes></notes>
+        </openinghours>
+        <type>Telekæden</type>
+        <lat>55.6727501</lat>
+        <lng>12.550246700000002</lng>
+    </shop>
+    <shop>
+        <name><![CDATA[Telekæden Viborg Byens Radio]]></name>
+        <address>Livøvej 31</address>
+        <city>8800 Viborg</city>
+        <phone>86626544</phone>
+        <fax></fax>
+        <email>mail@byensradio.dk</email>
+        <manager></manager>
+        <openinghours>
+            <mon></mon>
+            <tue></tue>
+            <wed></wed>
+            <thu></thu>
+            <fri></fri>
+            <sat></sat>
+            <sun></sun>
+            <notes></notes>
+        </openinghours>
+        <type>Telekæden</type>
+        <lat>56.448418</lat>
+        <lng>9.359985000000052</lng>
+    </shop>
+    <shop>
+        <name><![CDATA[Telekæden Viborg Tele Center Midt]]></name>
+        <address>Tagtækkervej 4</address>
+        <city>8800 Viborg</city>
+        <phone>86623444</phone>
+        <fax></fax>
+        <email>tcm@telekaeden.dk</email>
+        <manager></manager>
+        <openinghours>
+            <mon></mon>
+            <tue></tue>
+            <wed></wed>
+            <thu></thu>
+            <fri></fri>
+            <sat></sat>
+            <sun></sun>
+            <notes></notes>
+        </openinghours>
+        <type>Telekæden</type>
+        <lat>56.470832</lat>
+        <lng>9.398828900000012</lng>
+    </shop>
+    <shop>
+        <name><![CDATA[Telekæden Viby J]]></name>
+        <address>Skanderborgvej 114</address>
+        <city>8260 Viby J</city>
+        <phone>87341515</phone>
+        <fax></fax>
+        <email>viby@telekaeden.dk</email>
+        <manager></manager>
+        <openinghours>
+            <mon></mon>
+            <tue></tue>
+            <wed></wed>
+            <thu></thu>
+            <fri></fri>
+            <sat></sat>
+            <sun></sun>
+            <notes></notes>
+        </openinghours>
+        <type>Telekæden</type>
+        <lat>56.138498</lat>
+        <lng>10.178179</lng>
+    </shop>
+    <shop>
+        <name><![CDATA[Telekæden Værløse Erhverv]]></name>
+        <address>Syvstjernehusene 1</address>
+        <city>3500 Værløse</city>
+        <phone>20547582</phone>
+        <fax></fax>
+        <email>fej@telekaedenerhverv.dk</email>
+        <manager></manager>
+        <openinghours>
+            <mon></mon>
+            <tue></tue>
+            <wed></wed>
+            <thu></thu>
+            <fri></fri>
+            <sat></sat>
+            <sun></sun>
+            <notes></notes>
+        </openinghours>
+        <type>Telekæden</type>
+        <lat>55.7761055</lat>
+        <lng>12.384832599999982</lng>
+    </shop>
+    <shop>
+        <name><![CDATA[Telekæden Østerbro]]></name>
+        <address>Østerbrogade 105</address>
+        <city>2100 København</city>
+        <phone>70223335</phone>
+        <fax></fax>
+        <email>osterbro@telekaeden.dk</email>
+        <manager></manager>
+        <openinghours>
+            <mon></mon>
+            <tue></tue>
+            <wed></wed>
+            <thu></thu>
+            <fri></fri>
+            <sat></sat>
+            <sun></sun>
+            <notes></notes>
+        </openinghours>
+        <type>Telekæden</type>
+        <lat>55.7098666</lat>
+        <lng>12.577257099999997</lng>
+    </shop>
+    <shop>
+        <name><![CDATA[Telekæden, Data Gården A/S]]></name>
+        <address>Sdr. Ringvej 44</address>
+        <city>6000 Kolding</city>
+        <phone>75502035</phone>
+        <fax></fax>
+        <email>salg@datagaarden.dk</email>
+        <manager></manager>
+        <openinghours>
+            <mon></mon>
+            <tue></tue>
+            <wed></wed>
+            <thu></thu>
+            <fri></fri>
+            <sat></sat>
+            <sun></sun>
+            <notes></notes>
+        </openinghours>
+        <type>Telekæden</type>
+        <lat>55.471265</lat>
+        <lng>9.472230999999965</lng>
+    </shop>
+    <shop>
+        <name><![CDATA[Telekæden, Helsingør]]></name>
+        <address>Bjergegade 7</address>
+        <city>3000 Helsingør</city>
+        <phone>49264930</phone>
+        <fax></fax>
+        <email>telekaeden@tele3000.dk</email>
+        <manager></manager>
+        <openinghours>
+            <mon></mon>
+            <tue></tue>
+            <wed></wed>
+            <thu></thu>
+            <fri></fri>
+            <sat></sat>
+            <sun></sun>
+            <notes></notes>
+        </openinghours>
+        <type>Telekæden</type>
+        <lat>56.0351425</lat>
+        <lng>12.611845899999935</lng>
+    </shop>
+    <shop>
+        <name><![CDATA[Telekæden, Hillerød Erhverv]]></name>
+        <address>Frederiksværksgade 89</address>
+        <city>3400 Hillerød</city>
+        <phone>36461033</phone>
+        <fax></fax>
+        <email>tony@telekaeden-erhverv.dk</email>
+        <manager></manager>
+        <openinghours>
+            <mon></mon>
+            <tue></tue>
+            <wed></wed>
+            <thu></thu>
+            <fri></fri>
+            <sat></sat>
+            <sun></sun>
+            <notes></notes>
+        </openinghours>
+        <type>Telekæden</type>
+        <lat>55.938783</lat>
+        <lng>12.27983359999996</lng>
+    </shop>
+    <shop>
+        <name><![CDATA[Telekæden, Hobro]]></name>
+        <address>Nytorv 10</address>
+        <city>9500 Hobro</city>
+        <phone>96570244</phone>
+        <fax></fax>
+        <email>hobro@telekaeden.dk</email>
+        <manager></manager>
+        <openinghours>
+            <mon></mon>
+            <tue></tue>
+            <wed></wed>
+            <thu></thu>
+            <fri></fri>
+            <sat></sat>
+            <sun></sun>
+            <notes></notes>
+        </openinghours>
+        <type>Telekæden</type>
+        <lat>56.6376248</lat>
+        <lng>9.795633700000053</lng>
+    </shop>
+    <shop>
+        <name><![CDATA[Telekæden, Hovedkontor]]></name>
+        <address>Jomfruløkken 2</address>
+        <city>8900 Randers</city>
+        <phone>70120100</phone>
+        <fax></fax>
+        <email></email>
+        <manager></manager>
+        <openinghours>
+            <mon></mon>
+            <tue></tue>
+            <wed></wed>
+            <thu></thu>
+            <fri></fri>
+            <sat></sat>
+            <sun></sun>
+            <notes></notes>
+        </openinghours>
+        <type>Telekæden</type>
+        <lat>56.4875413</lat>
+        <lng>10.045496599999979</lng>
+    </shop>
+    <shop>
+        <name><![CDATA[Telekæden, Nyborg]]></name>
+        <address>Korsgade 11</address>
+        <city>5800 Nyborg</city>
+        <phone>65351262</phone>
+        <fax></fax>
+        <email>broby@telekaeden.dk</email>
+        <manager></manager>
+        <openinghours>
+            <mon></mon>
+            <tue></tue>
+            <wed></wed>
+            <thu></thu>
+            <fri></fri>
+            <sat></sat>
+            <sun></sun>
+            <notes></notes>
+        </openinghours>
+        <type>Telekæden</type>
+        <lat>55.3113745</lat>
+        <lng>10.79020760000003</lng>
+    </shop>
+    <shop>
+        <name><![CDATA[Telekæden, Nørresundby]]></name>
+        <address>Østerbrogade 79</address>
+        <city>9400 Nørresundby</city>
+        <phone>26802629</phone>
+        <fax></fax>
+        <email>norresundby@telekaeden.dk</email>
+        <manager></manager>
+        <openinghours>
+            <mon></mon>
+            <tue></tue>
+            <wed></wed>
+            <thu></thu>
+            <fri></fri>
+            <sat></sat>
+            <sun></sun>
+            <notes></notes>
+        </openinghours>
+        <type>Telekæden</type>
+        <lat>57.0584509</lat>
+        <lng>9.926462899999933</lng>
+    </shop>
+    <shop>
+        <name><![CDATA[Telekæden, Odense City]]></name>
+        <address>Vesterbro 34</address>
+        <city>5000 Odense</city>
+        <phone>63111610</phone>
+        <fax></fax>
+        <email>broby@telekaeden.dk</email>
+        <manager></manager>
+        <openinghours>
+            <mon></mon>
+            <tue></tue>
+            <wed></wed>
+            <thu></thu>
+            <fri></fri>
+            <sat></sat>
+            <sun></sun>
+            <notes></notes>
+        </openinghours>
+        <type>Telekæden</type>
+        <lat>55.3936304</lat>
+        <lng>10.377762899999993</lng>
+    </shop>
+    <shop>
+        <name><![CDATA[Telekæden, Ryomgaard]]></name>
+        <address>Industrivej 30</address>
+        <city>8550 Ryomgaard</city>
+        <phone>87741008</phone>
+        <fax></fax>
+        <email>ryomgaard@telekaeden.dk</email>
+        <manager></manager>
+        <openinghours>
+            <mon></mon>
+            <tue></tue>
+            <wed></wed>
+            <thu></thu>
+            <fri></fri>
+            <sat></sat>
+            <sun></sun>
+            <notes></notes>
+        </openinghours>
+        <type>Telekæden</type>
+        <lat>56.3787231</lat>
+        <lng>10.490790500000003</lng>
+    </shop>
+    <shop>
+        <name><![CDATA[Telekæden, Skive]]></name>
+        <address>Østergade 6</address>
+        <city>7800 Skive</city>
+        <phone>97526177</phone>
+        <fax></fax>
+        <email>skive@telekaeden.dk</email>
+        <manager></manager>
+        <openinghours>
+            <mon></mon>
+            <tue></tue>
+            <wed></wed>
+            <thu></thu>
+            <fri></fri>
+            <sat></sat>
+            <sun></sun>
+            <notes></notes>
+        </openinghours>
+        <type>Telekæden</type>
+        <lat>56.5664652</lat>
+        <lng>9.028916600000002</lng>
+    </shop>
+    <shop>
+        <name><![CDATA[Telekæden, Slagelse]]></name>
+        <address>Nygade 7</address>
+        <city>4200 Slagelse</city>
+        <phone>58520799</phone>
+        <fax></fax>
+        <email>service@mancan.dk</email>
+        <manager></manager>
+        <openinghours>
+            <mon></mon>
+            <tue></tue>
+            <wed></wed>
+            <thu></thu>
+            <fri></fri>
+            <sat></sat>
+            <sun></sun>
+            <notes></notes>
+        </openinghours>
+        <type>Telekæden</type>
+        <lat>55.4042648</lat>
+        <lng>11.354547599999933</lng>
+    </shop>
+    <shop>
+        <name><![CDATA[Telekæden, Søborg]]></name>
+        <address>Søborg Hovedgade 93</address>
+        <city>2860 Søborg</city>
+        <phone>39668393</phone>
+        <fax></fax>
+        <email>soeborg@telekaeden.dk</email>
+        <manager></manager>
+        <openinghours>
+            <mon></mon>
+            <tue></tue>
+            <wed></wed>
+            <thu></thu>
+            <fri></fri>
+            <sat></sat>
+            <sun></sun>
+            <notes></notes>
+        </openinghours>
+        <type>Telekæden</type>
+        <lat>55.7365306</lat>
+        <lng>12.510019100000022</lng>
+    </shop>
+    <shop>
+        <name><![CDATA[Telekæden, Tønder]]></name>
+        <address>Kogade 1</address>
+        <city>6270 Tønder</city>
+        <phone>70207042</phone>
+        <fax></fax>
+        <email>tonder@telekaeden.dk</email>
+        <manager></manager>
+        <openinghours>
+            <mon></mon>
+            <tue></tue>
+            <wed></wed>
+            <thu></thu>
+            <fri></fri>
+            <sat></sat>
+            <sun></sun>
+            <notes></notes>
+        </openinghours>
+        <type>Telekæden</type>
+        <lat>54.93444</lat>
+        <lng>8.86631030000001</lng>
+    </shop>
+    <shop>
+        <name><![CDATA[Telekæden, Waves]]></name>
+        <address>Over Bølgen 12K</address>
+        <city>2670 Greve</city>
+        <phone>43696926</phone>
+        <fax></fax>
+        <email>waves@telekaeden.dk</email>
+        <manager></manager>
+        <openinghours>
+            <mon></mon>
+            <tue></tue>
+            <wed></wed>
+            <thu></thu>
+            <fri></fri>
+            <sat></sat>
+            <sun></sun>
+            <notes></notes>
+        </openinghours>
+        <type>Telekæden</type>
+        <lat>55.59881554682582</lat>
+        <lng>12.327655455322201</lng>
+    </shop>
+	
+	<shop>
+	   <name><![CDATA[Aabenraa]]></name>
+	   <address>Storegade 9</address>
+	   <city>6200 Aabenraa</city>
+	   <phone>80404444</phone>
+	   <fax></fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon>09.30-17.30</mon>
+	       <tue>09.30-17.30</tue>
+	       <wed>09.30-17.30</wed>
+	       <thu>09.30-17.30</thu>
+	       <fri>09.30-17.30</fri>
+	       <sat>09.30-14.00</sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Telia</type>
+	   <lat>55.0444154</lat>
+	   <lng>9.41912160000004</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Aalborg]]></name>
+	   <address>Gågaden, Bispensgade 31</address>
+	   <city>9000 Aalborg</city>
+	   <phone>80404444</phone>
+	   <fax></fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon>10.00-17.30</mon>
+	       <tue>10.00-17.30</tue>
+	       <wed>10.00-17.30</wed>
+	       <thu>10.00-17.30</thu>
+	       <fri>10.00-19.00</fri>
+	       <sat>10.00-15.00</sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Telia</type>
+	   <lat>57.0494547</lat>
+	   <lng>9.916867799999977</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Aalborg]]></name>
+	   <address>Bispensgade 16</address>
+	   <city>9000 Aalborg</city>
+	   <phone>80404444</phone>
+	   <fax></fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon>10.00-17.30</mon>
+	       <tue>10.00-17.30</tue>
+	       <wed>10.00-17.30</wed>
+	       <thu>10.00-17.30</thu>
+	       <fri>10.00-19.00</fri>
+	       <sat>10.00-15.00</sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Telia</type>
+	   <lat>57.049505</lat>
+	   <lng>9.919138999999973</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Århus]]></name>
+	   <address>Ryesgade 31</address>
+	   <city>8000 Århus</city>
+	   <phone>80404444</phone>
+	   <fax></fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon>10.00-17.30</mon>
+	       <tue>10.00-17.30</tue>
+	       <wed>10.00-17.30</wed>
+	       <thu>10.00-17.30</thu>
+	       <fri>10.00-19.00</fri>
+	       <sat>10.00-15.00</sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Telia</type>
+	   <lat>56.151332</lat>
+	   <lng>10.204971999999998</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Århus]]></name>
+	   <address>Kannikegade 10-12</address>
+	   <city>8000 Århus</city>
+	   <phone>80404444</phone>
+	   <fax></fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon>10.00-17.30</mon>
+	       <tue>10.00-17.30</tue>
+	       <wed>10.00-17.30</wed>
+	       <thu>10.00-17.30</thu>
+	       <fri>10.00-19.00</fri>
+	       <sat>10.00-14.00</sat>
+	       <sun></sun>
+	       <notes>1. lørdag i måneden 10:00-16:00</notes>
+	   </openinghours>
+	   <type>Telia</type>
+	   <lat>56.1561536</lat>
+	   <lng>10.209873799999968</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Ballerup]]></name>
+	   <address>Banetoften 30, Ballerup Centret</address>
+	   <city>2750 Ballerup</city>
+	   <phone>80404444</phone>
+	   <fax></fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon>10.00-19.00</mon>
+	       <tue>10.00-19.00</tue>
+	       <wed>10.00-19.00</wed>
+	       <thu>10.00-19.00</thu>
+	       <fri>10.00-19.00</fri>
+	       <sat>10.00-16.00</sat>
+	       <sun></sun>
+	       <notes>Åbent første søndag i måneden til 16:00</notes>
+	   </openinghours>
+	   <type>Telia</type>
+	   <lat>55.7290465</lat>
+	   <lng>12.355768399999988</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Bornholm]]></name>
+	   <address>Store Torvegade 33A</address>
+	   <city>3700 Rønne</city>
+	   <phone>80404444</phone>
+	   <fax></fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon>10.00-17.30</mon>
+	       <tue>10.00-17.30</tue>
+	       <wed>10.00-17.30</wed>
+	       <thu>10.00-17.30</thu>
+	       <fri>10.00-18.00</fri>
+	       <sat>10.00-13.00</sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Telia</type>
+	   <lat>55.104641</lat>
+	   <lng>14.699805999999967</lng>
+	</shop>
+		<shop>
+	   <name><![CDATA[Brabrand]]></name>
+	   <address>City Vest 337, Gudrunsgade 7</address>
+	   <city>8220 Brabrand</city>
+	   <phone>80404444</phone>
+	   <fax></fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon>10.00-18.00</mon>
+	       <tue>10.00-18.00</tue>
+	       <wed>10.00-18.00</wed>
+	       <thu>10.00-18.00</thu>
+	       <fri>10.00-19.00</fri>
+	       <sat>09.30-15.00</sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Telia</type>
+	   <lat>56.1552754</lat>
+	   <lng>10.135147200000006</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Esbjerg]]></name>
+	   <address>Kongensgade 87</address>
+	   <city>6700 Esbjerg</city>
+	   <phone>80404444</phone>
+	   <fax></fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon>10.00-17.30</mon>
+	       <tue>10.00-17.30</tue>
+	       <wed>10.00-17.30</wed>
+	       <thu>10.00-17.30</thu>
+	       <fri>10.00-18.00</fri>
+	       <sat>10.00-14.00</sat>
+	       <sun></sun>
+	       <notes>Åbent første lørdag i måneden til 16.00</notes>
+	   </openinghours>
+	   <type>Telia</type>
+	   <lat>55.4669637</lat>
+	   <lng>8.444309699999963</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Fredericia]]></name>
+	   <address>Danmarksgade 4</address>
+	   <city>7000 Fredericia</city>
+	   <phone>80404444</phone>
+	   <fax></fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon>10.00-17.30</mon>
+	       <tue>10.00-17.30</tue>
+	       <wed>10.00-17.30</wed>
+	       <thu>10.00-17.30</thu>
+	       <fri>10.00-18.00</fri>
+	       <sat>10.00-14.00</sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Telia</type>
+	   <lat>55.567069</lat>
+	   <lng>9.75316859999998</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Frederiksberg]]></name>
+	   <address>Falkoner alle 25</address>
+	   <city>2000 Frederiksberg</city>
+	   <phone>80404444</phone>
+	   <fax></fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon>10.00-18.00</mon>
+	       <tue>10.00-18.00</tue>
+	       <wed>10.00-18.00</wed>
+	       <thu>10.00-18.00</thu>
+	       <fri>10.00-19.00</fri>
+	       <sat>10.00-16.00</sat>
+	       <sun></sun>
+	       <notes>Første og sidste søndag i måneden 10:00 - 15:00</notes>
+	   </openinghours>
+	   <type>Telia</type>
+	   <lat>55.6817862</lat>
+	   <lng>12.534443600000031</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Frederikshavn]]></name>
+	   <address>Danmarksgade 61B</address>
+	   <city>9900 Frederikshavn</city>
+	   <phone>80404444</phone>
+	   <fax></fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon>10.00-17.30</mon>
+	       <tue>10.00-17.30</tue>
+	       <wed>10.00-17.30</wed>
+	       <thu>10.00-17.30</thu>
+	       <fri>10.00-17.30</fri>
+	       <sat>10.00-13.00</sat>
+	       <sun></sun>
+	       <notes>Åbent først lørdag i måneden til 14.00</notes>
+	   </openinghours>
+	   <type>Telia</type>
+	   <lat>57.440011</lat>
+	   <lng>10.53628900000001</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Frederikssund]]></name>
+	   <address>Østergade 32</address>
+	   <city>3600 Frederikssund</city>
+	   <phone>80404444</phone>
+	   <fax></fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon>09.30-17.30</mon>
+	       <tue>09.30-17.30</tue>
+	       <wed>09.30-17.30</wed>
+	       <thu>09.30-17.30</thu>
+	       <fri>09.30-18.00</fri>
+	       <sat>09.30-14.00</sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Telia</type>
+	   <lat>55.8394445</lat>
+	   <lng>12.06205650000004</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Helsingør]]></name>
+	   <address>Stengade 13</address>
+	   <city>3000 Helsingør</city>
+	   <phone>80404444</phone>
+	   <fax></fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon>10.00-17.30</mon>
+	       <tue>10.00-17.30</tue>
+	       <wed>10.00-17.30</wed>
+	       <thu>10.00-17.30</thu>
+	       <fri>10.00-18.00</fri>
+	       <sat>10.00-14.00</sat>
+	       <sun></sun>
+	       <notes>Åbent første og sidste lørdag i måneden til 15.00</notes>
+	   </openinghours>
+	   <type>Telia</type>
+	   <lat>56.0328144</lat>
+	   <lng>12.609001600000056</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Herning]]></name>
+	   <address>Bredgade 38</address>
+	   <city>7400 Herning</city>
+	   <phone>80404444</phone>
+	   <fax></fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon>10.00-17.30</mon>
+	       <tue>10.00-17.30</tue>
+	       <wed>10.00-17.30</wed>
+	       <thu>10.00-17.30</thu>
+	       <fri>10.00-18.00</fri>
+	       <sat>10.00-14.00</sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Telia</type>
+	   <lat>56.1362367</lat>
+	   <lng>8.96958989999996</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Hillerød]]></name>
+	   <address>Slotsgade 8</address>
+	   <city>3400 Hillerød</city>
+	   <phone>80404444</phone>
+	   <fax></fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon>10.00-18.00</mon>
+	       <tue>10.00-18.00</tue>
+	       <wed>10.00-18.00</wed>
+	       <thu>10.00-18.00</thu>
+	       <fri>10.00-18.00</fri>
+	       <sat>10.00-15.00</sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Telia</type>
+	   <lat>55.9293483</lat>
+	   <lng>12.301643900000045</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Hjørring]]></name>
+	   <address>Metropol Centret, Østergade 30</address>
+	   <city>9800 Hjørring</city>
+	   <phone>80404444</phone>
+	   <fax></fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon>10.00-19.00</mon>
+	       <tue>10.00-19.00</tue>
+	       <wed>10.00-19.00</wed>
+	       <thu>10.00-19.00</thu>
+	       <fri>10.00-19.00</fri>
+	       <sat>10.00-16.00</sat>
+	       <sun></sun>
+	       <notes>Åbent første søndag i måneden fra 10.00-16.00</notes>
+	   </openinghours>
+	   <type>Telia</type>
+	   <lat>57.4580861</lat>
+	   <lng>9.990958099999943</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Holbæk]]></name>
+	   <address>Slotscentret, Slotsvolden 7</address>
+	   <city>4300 Holbæk</city>
+	   <phone>80404444</phone>
+	   <fax></fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon>09.30-18.00</mon>
+	       <tue>09.30-18.00</tue>
+	       <wed>09.30-18.00</wed>
+	       <thu>09.30-18.00</thu>
+	       <fri>09.30-19.00</fri>
+	       <sat>09.30-15.00</sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Telia</type>
+	   <lat>55.717853</lat>
+	   <lng>11.703491799999938</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Horsens]]></name>
+	   <address>Hospitalsgade 11</address>
+	   <city>8700 Horsens</city>
+	   <phone>80404444</phone>
+	   <fax></fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon>10.00-17.30</mon>
+	       <tue>10.00-17.30</tue>
+	       <wed>10.00-17.30</wed>
+	       <thu>10.00-17.30</thu>
+	       <fri>10.00-18.00</fri>
+	       <sat>09.30-14.00</sat>
+	       <sun></sun>
+	       <notes>Tlf. Stofa kunder: 88303030</notes>
+	   </openinghours>
+	   <type>Telia</type>
+	   <lat>55.861295</lat>
+	   <lng>9.84565299999997</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Horsens]]></name>
+	   <address>Søndergade 14</address>
+	   <city>8700 Horsens</city>
+	   <phone>80404444</phone>
+	   <fax></fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon>10.00-18.00</mon>
+	       <tue>10.00-18.00</tue>
+	       <wed>10.00-18.00</wed>
+	       <thu>10.00-18.00</thu>
+	       <fri>10.00-19.00</fri>
+	       <sat>10.00-16.00</sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Telia</type>
+	   <lat>55.8618431</lat>
+	   <lng>9.84598589999996</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Kolding]]></name>
+	   <address>Østergade 19-21</address>
+	   <city>6000 Kolding</city>
+	   <phone>80404444</phone>
+	   <fax></fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon>10.00-18.00</mon>
+	       <tue>10.00-18.00</tue>
+	       <wed>10.00-18.00</wed>
+	       <thu>10.00-18.00</thu>
+	       <fri>10.00-18.00</fri>
+	       <sat>10.00-14.00</sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Telia</type>
+	   <lat>55.4893865</lat>
+	   <lng>9.474424699999986</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Kolding]]></name>
+	   <address>Kolding Storcenter, Lilla gade, Skovvangen 42</address>
+	   <city>6000 Kolding</city>
+	   <phone>80404444</phone>
+	   <fax></fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon>09.30-20.00</mon>
+	       <tue>09.30-17.30</tue>
+	       <wed>09.30-17.30</wed>
+	       <thu>09.30-20.00</thu>
+	       <fri>09.30-20.00</fri>
+	       <sat>09.30-16.00</sat>
+	       <sun></sun>
+	       <notes>Åbent  første søndag i måneden fra 10.00-16.00</notes>
+	   </openinghours>
+	   <type>Telia</type>
+	   <lat>55.5139655</lat>
+	   <lng>9.462533099999973</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[København]]></name>
+	   <address>Amagerbrogade 41</address>
+	   <city>2300 København</city>
+	   <phone>80404444</phone>
+	   <fax></fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon>10.00-18.00</mon>
+	       <tue>10.00-18.00</tue>
+	       <wed>10.00-18.00</wed>
+	       <thu>10.00-18.00</thu>
+	       <fri>10.00-19.00</fri>
+	       <sat>10.00-14.00</sat>
+	       <sun></sun>
+	       <notes>1 Lørdag: 10.00-15.00</notes>
+	   </openinghours>
+	   <type>Telia</type>
+	   <lat>55.6641289</lat>
+	   <lng>12.60105980000003</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[København]]></name>
+	   <address>Amagerbrogade 41</address>
+	   <city>2300 København</city>
+	   <phone>80404444</phone>
+	   <fax></fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon>10.00-18.00</mon>
+	       <tue>10.00-18.00</tue>
+	       <wed>10.00-18.00</wed>
+	       <thu>10.00-18.00</thu>
+	       <fri>10.00-19.00</fri>
+	       <sat>10.00-14.00</sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Telia</type>
+	   <lat>55.6641289</lat>
+	   <lng>12.60105980000003</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[København]]></name>
+	   <address>Hovedbanegården, Shop 28</address>
+	   <city>1570 København</city>
+	   <phone>80404444</phone>
+	   <fax></fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon>08.00-20.00</mon>
+	       <tue>08.00-20.00</tue>
+	       <wed>08.00-20.00</wed>
+	       <thu>08.00-20.00</thu>
+	       <fri>08.00-20.00</fri>
+	       <sat>09.00-20.00</sat>
+	       <sun>10.00-20.00</sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Telia</type>
+	   <lat>55.6737368</lat>
+	   <lng>12.564146299999948</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[København]]></name>
+	   <address>Østerbrogade 82</address>
+	   <city>2100 København</city>
+	   <phone>80404444</phone>
+	   <fax></fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon>10.00-18.00</mon>
+	       <tue>10.00-18.00</tue>
+	       <wed>10.00-18.00</wed>
+	       <thu>10.00-18.00</thu>
+	       <fri>10.00-19.00</fri>
+	       <sat>10.00-14.00</sat>
+	       <sun></sun>
+	       <notes>Åbent første og sideste lørdag i måneden til 15.00</notes>
+	   </openinghours>
+	   <type>Telia</type>
+	   <lat>55.7004022</lat>
+	   <lng>12.577665799999977</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[København]]></name>
+	   <address>Strøget, Amagertorv 14</address>
+	   <city>1160 København</city>
+	   <phone>80404444</phone>
+	   <fax></fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon>10.00-18.00</mon>
+	       <tue>10.00-18.00</tue>
+	       <wed>10.00-18.00</wed>
+	       <thu>10.00-18.00</thu>
+	       <fri>10.00-19.00</fri>
+	       <sat>10.00-17.00</sat>
+	       <sun></sun>
+	       <notes>Åbent første søndag i måneden fra 11.00-15.00</notes>
+	   </openinghours>
+	   <type>Telia</type>
+	   <lat>55.6788428</lat>
+	   <lng>12.57834159999993</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[København]]></name>
+	   <address>Fisketorvet Shopping Center,  Kalvebod Brygge 59</address>
+	   <city>1560 København</city>
+	   <phone>80404444</phone>
+	   <fax></fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon>10.00-20.00</mon>
+	       <tue>10.00-20.00</tue>
+	       <wed>10.00-20.00</wed>
+	       <thu>10.00-20.00</thu>
+	       <fri>10.00-20.00</fri>
+	       <sat>10.00-17.00</sat>
+	       <sun></sun>
+	       <notes>Søndagsåbent 11-17 hver 1. søndag i måneden</notes>
+	   </openinghours>
+	   <type>Telia</type>
+	   <lat>55.6619772</lat>
+	   <lng>12.561082199999987</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Køge]]></name>
+	   <address>Torvet 20</address>
+	   <city>4600 Køge</city>
+	   <phone>80404444</phone>
+	   <fax></fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon>09:30-18:00</mon>
+	       <tue>09:30-18:00</tue>
+	       <wed>09:30-18:00</wed>
+	       <thu>09:30-18:00</thu>
+	       <fri>09:30-18:00</fri>
+	       <sat>09.30-15.00</sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Telia</type>
+	   <lat>55.457037</lat>
+	   <lng>12.18082579999998</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Lyngby]]></name>
+	   <address>Lyngby Hovedgade 66 A</address>
+	   <city>2800 Lyngby</city>
+	   <phone>80404444</phone>
+	   <fax></fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon>10.00-18.00</mon>
+	       <tue>10.00-18.00</tue>
+	       <wed>10.00-18.00</wed>
+	       <thu>10.00-18.00</thu>
+	       <fri>10.00-18.00</fri>
+	       <sat>10.00-15.00</sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Telia</type>
+	   <lat>55.7706188</lat>
+	   <lng>12.50305209999999</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Lyngby - Jernbanepladsen]]></name>
+	   <address>Jernbanepladsen 27</address>
+	   <city>2800 Lyngby</city>
+	   <phone>80404444</phone>
+	   <fax></fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon>10.00-18.00</mon>
+	       <tue>10.00-18.00</tue>
+	       <wed>10.00-18.00</wed>
+	       <thu>10.00-18.00</thu>
+	       <fri>10.00-18.00</fri>
+	       <sat>10.00-15.00</sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Telia</type>
+	   <lat>55.7680948</lat>
+	   <lng>12.504216700000029</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Nakskov]]></name>
+	   <address>Søndergade 30</address>
+	   <city>4900 Nakskov</city>
+	   <phone>80404444</phone>
+	   <fax></fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon>09.30-17.00</mon>
+	       <tue>09.30-17.00</tue>
+	       <wed>09.30-17.00</wed>
+	       <thu>09.30-17.00</thu>
+	       <fri>09.30-18.00</fri>
+	       <sat>09.30-13.00</sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Telia</type>
+	   <lat>54.8295439</lat>
+	   <lng>11.138671700000032</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Nykøbing Falster]]></name>
+	   <address>Slotsgade 54</address>
+	   <city>4800 Nykøbing Falster</city>
+	   <phone>80404444</phone>
+	   <fax></fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon>09.30-17.00</mon>
+	       <tue>09.30-17.00</tue>
+	       <wed>09.30-17.00</wed>
+	       <thu>09.30-17.00</thu>
+	       <fri>09.30-18.00</fri>
+	       <sat>09.30-13.00</sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Telia</type>
+	   <lat>54.7715701</lat>
+	   <lng>11.866253400000005</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Nykøbing Mors]]></name>
+	   <address>Vestergade 22</address>
+	   <city>7900 Nykøbing Mors</city>
+	   <phone>80404444</phone>
+	   <fax></fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon>09.00-17.00</mon>
+	       <tue>09.00-17.00</tue>
+	       <wed>09.00-17.00</wed>
+	       <thu>09.00-17.00</thu>
+	       <fri>09.00-18.00</fri>
+	       <sat>09.30-13.00</sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Telia</type>
+	   <lat>56.79384</lat>
+	   <lng>8.85400100000004</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Næstved]]></name>
+	   <address>Axeltorv 9</address>
+	   <city>4700 Næstved</city>
+	   <phone>80404444</phone>
+	   <fax></fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon>09.30-17.30</mon>
+	       <tue>09.30-17.30</tue>
+	       <wed>09.30-17.30</wed>
+	       <thu>09.30-17.30</thu>
+	       <fri>09.30-18.00</fri>
+	       <sat>09.30-14.00</sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Telia</type>
+	   <lat>55.2307561</lat>
+	   <lng>11.757717599999978</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Odense]]></name>
+	   <address>Kongensgade 30</address>
+	   <city>5000 Odense</city>
+	   <phone>80404444</phone>
+	   <fax></fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon>10.00-17.30</mon>
+	       <tue>10.00-17.30</tue>
+	       <wed>10.00-17.30</wed>
+	       <thu>10.00-18.00</thu>
+	       <fri>10.00-19.00</fri>
+	       <sat>10.00-15.00</sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Telia</type>
+	   <lat>55.396178</lat>
+	   <lng>10.381796000000008</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Rosengårdcenter]]></name>
+	   <address>shop 82, Gul Gade, Ørbækvej 75</address>
+	   <city>5220 Odense</city>
+	   <phone>80404444</phone>
+	   <fax></fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon>10.00-18.00</mon>
+	       <tue>10.00-18.00</tue>
+	       <wed>10.00-18.00</wed>
+	       <thu>10.00-20.00</thu>
+	       <fri>10.00-20.00</fri>
+	       <sat>10.00-16.00</sat>
+	       <sun></sun>
+	       <notes>Søndagsåbent 1. søndag hver måned 10.00-16.00</notes>
+	   </openinghours>
+	   <type>Telia</type>
+	   <lat>55.384444</lat>
+	   <lng>10.426866000000018</lng>
+	</shop>
+    <shop>
+        <name><![CDATA[Randers]]></name>
+        <address>Rådhustorvet 1</address>
+        <city>8900 Randers</city>
+        <phone>80404444</phone>
+        <fax></fax>
+        <email></email>
+        <manager></manager>
+        <openinghours>
+            <mon>10.00-17.30</mon>
+            <tue>10.00-17.30</tue>
+            <wed>10.00-17.30</wed>
+            <thu>10.00-17.30</thu>
+            <fri>10.00-18.00</fri>
+            <sat>10.00-14.00</sat>
+            <sun></sun>
+            <notes></notes>
+        </openinghours>
+        <type>Telia</type>
+        <lat>56.460787</lat>
+        <lng>10.036303999999973</lng>
+    </shop>
+	<shop>
+	   <name><![CDATA[Roskilde]]></name>
+	   <address>Algade 34</address>
+	   <city>4000 Roskilde</city>
+	   <phone>80404444</phone>
+	   <fax></fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon>10.00-18.00</mon>
+	       <tue>10.00-18.00</tue>
+	       <wed>10.00-18.00</wed>
+	       <thu>10.00-18.00</thu>
+	       <fri>10.00-18.00</fri>
+	       <sat>10.00-15.00</sat>
+	       <sun></sun>
+	       <notes>Første og sidste søndag i md.: 11.00-15.00</notes>
+	   </openinghours>
+	   <type>Telia</type>
+	   <lat>55.6409429</lat>
+	   <lng>12.087073799999985</lng>
+	</shop>
+    <shop>
+        <name><![CDATA[Ro's Torv]]></name>
+        <address>Ro's Torv</address>
+        <city>4000 Roskilde</city>
+        <phone>80404444</phone>
+        <fax></fax>
+        <email></email>
+        <manager></manager>
+        <openinghours>
+            <mon>10.00-19.00</mon>
+            <tue>10.00-19.00</tue>
+            <wed>10.00-19.00</wed>
+            <thu>10.00-20.00</thu>
+            <fri>10.00-20.00</fri>
+            <sat>10.00-17.00</sat>
+            <sun></sun>
+            <notes>Åben første søndag i måneden fra 10.00-16.00</notes>
+        </openinghours>
+        <type>Telia</type>
+        <lat>55.64145495456049</lat>
+        <lng>12.100118424903826</lng>
+    </shop>
+	<shop>
+	   <name><![CDATA[Silkeborg]]></name>
+	   <address>Søndergade 15</address>
+	   <city>8600 Silkeborg</city>
+	   <phone>80404444</phone>
+	   <fax></fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon>10.00-17.30</mon>
+	       <tue>10.00-17.30</tue>
+	       <wed>10.00-17.30</wed>
+	       <thu>10.00-17.30</thu>
+	       <fri>10.00-18.00</fri>
+	       <sat>09.30-14.00</sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Telia</type>
+	   <lat>56.167832</lat>
+	   <lng>9.550296000000003</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Svendborg]]></name>
+	   <address>Gerritsgade 13</address>
+	   <city>5700 Svendborg</city>
+	   <phone>80404444</phone>
+	   <fax></fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon>10.00-17.30</mon>
+	       <tue>10.00-17.30</tue>
+	       <wed>10.00-17.30</wed>
+	       <thu>10.00-17.30</thu>
+	       <fri>10.00-18.00</fri>
+	       <sat>10.00-14.00</sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Telia</type>
+	   <lat>55.0589784</lat>
+	   <lng>10.608489299999974</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Sønderborg]]></name>
+	   <address>Perlegade 71</address>
+	   <city>6400 Sønderborg</city>
+	   <phone>80404444</phone>
+	   <fax></fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon>10.00-17.30</mon>
+	       <tue>10.00-17.30</tue>
+	       <wed>10.00-17.30</wed>
+	       <thu>10.00-17.30</thu>
+	       <fri>10.00-18.00</fri>
+	       <sat>10.00-14.00</sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Telia</type>
+	   <lat>54.913087</lat>
+	   <lng>9.79336699999999</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Taastrup]]></name>
+	   <address>City 2, Shop 268</address>
+	   <city>2630 Taastrup</city>
+	   <phone>80404444</phone>
+	   <fax></fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon>10.00-19.00</mon>
+	       <tue>10.00-19.00</tue>
+	       <wed>10.00-19.00</wed>
+	       <thu>10.00-19.00</thu>
+	       <fri>10.00-19.00</fri>
+	       <sat>10.00-17.00</sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Telia</type>
+	   <lat>55.5488137</lat>
+	   <lng>11.706819799999948</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Telia Butik Fields]]></name>
+	   <address>Fields Shoppingcenter, Arne Jacobsens Allé 12</address>
+	   <city>2300 København S</city>
+	   <phone>80404444</phone>
+	   <fax></fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon>10.00-20.00</mon>
+	       <tue>10.00-20.00</tue>
+	       <wed>10.00-20.00</wed>
+	       <thu>10.00-20.00</thu>
+	       <fri>10.00-20.00</fri>
+	       <sat>10.00-17.00</sat>
+	       <sun></sun>
+	       <notes>Søndagsåbent 10.00-17.00 hver 1. søndag i måneden.</notes>
+	   </openinghours>
+	   <type>Telia</type>
+	   <lat>55.6312044</lat>
+	   <lng>12.57593010000005</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Vejle]]></name>
+	   <address>Mary's, Paladspassagen 2</address>
+	   <city>7100 Vejle</city>
+	   <phone>80404444</phone>
+	   <fax></fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon>10.00-17.30</mon>
+	       <tue>10.00-17.30</tue>
+	       <wed>10.00-17.30</wed>
+	       <thu>10.00-17.30</thu>
+	       <fri>10.00-19.00</fri>
+	       <sat>10.00-14.00</sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Telia</type>
+	   <lat>55.710861</lat>
+	   <lng>9.534927000000039</lng>
+	</shop>
+	<shop>
+	   <name><![CDATA[Viborg]]></name>
+	   <address>Sct. Mathias Gade 62</address>
+	   <city>8800 Viborg</city>
+	   <phone>80404444</phone>
+	   <fax></fax>
+	   <email></email>
+	   <manager></manager>
+	   <openinghours>
+	       <mon>10.00-17.30</mon>
+	       <tue>10.00-17.30</tue>
+	       <wed>10.00-17.30</wed>
+	       <thu>10.00-18.00</thu>
+	       <fri>10.00-18.00</fri>
+	       <sat>9.30-14.00</sat>
+	       <sun></sun>
+	       <notes></notes>
+	   </openinghours>
+	   <type>Telia</type>
+	   <lat>56.449429</lat>
+	   <lng>9.40796499999999</lng>
+	</shop>
+</shops>

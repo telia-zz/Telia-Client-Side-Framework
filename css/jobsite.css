@@ -1,0 +1,178 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/** Colls **/
+.jobsiteFrontItem{
+	position:relative;
+	width:198px;
+	height:290px;
+	float:left;
+	padding:0 15px 0 20px;
+}
+
+.jobsiteFrontItems .jobsiteFrontItem{
+	background:url(../images/jobsite/deviderVertical_2x260.jpg) no-repeat left top;
+}
+	.jobsiteFrontItems div:first-child{
+		background:none;
+		padding-left:0px;
+	}
+
+.jobsiteHero {
+	background: url(../images/jobsite/bg_jobsiteHeroFront.jpg) no-repeat;
+	background-repeat:no-repeat;
+	width:680px;
+	height:350px;
+	padding:0 0 0 20px;	
+	margin:0 0 20px 0;
+	position:relative;
+}
+
+
+/** Forside **/
+.jobsiteHeroFront{
+	padding-top:25px;
+	height:325px;
+}
+
+.jobsiteHeroFront img {
+	position:relative;
+	float:right;
+}	
+.jobsiteHeroFront p {
+	color:#FFF;
+	font-size:17px;
+	margin:110px 0 50px 0;
+}
+
+
+/** Telia som arbejdsplads **/
+.jobsiteHeroColleagues, .jobsiteHeroColleague{
+	padding-top:10px;
+	height:340px;
+}
+
+.jobsiteHero .top-video {
+	position:absolute;
+	top:28px;
+	left:3px;
+	width:435px;
+	height:293px;
+	padding:19px 0 0 19px;
+	background:url(../images/jobsite/bg_jobsiteVideo.png) no-repeat;
+}
+
+.jobsiteHero .top-colleaguestitle {
+	position:absolute;
+	width:232px;
+	height:310px;
+	background:url(../images/jobsite/bg_jobsiteColleaguesTitle.png) no-repeat bottom;
+	top:12px;
+	right:20px;
+}
+	.jobsiteHeroColleagues p{
+		color:#FFF;
+		font-size:15px;
+		margin:0 0 0 436px;
+	}
+	
+.jobsiteHero .top-colleaguestitle .top-colleague{
+	margin:0 0 0 9px;
+	padding:7px 0 7px 10px;
+	background:url(../images/jobsite/bg_jobsiteColleagueRepeat.jpg) repeat-x top;
+	width:204px;
+}
+	.jobsiteHero .top-colleaguestitle div:first-child{
+		background:none;
+		margin-top:25px;
+	}
+	.jobsiteHero .top-colleaguestitle .top-colleague a{
+		background:url(../images/jobsite/jobsiteColleaguesTitleArrow.png) no-repeat 0px 3px;
+		text-decoration:none;
+	}
+		.jobsiteHero .top-colleaguestitle .top-colleague span{
+			margin:0 0 0 10px;
+		}
+		.jobsiteHero .top-colleaguestitle .top-colleague .colleague-name{
+			font-size:14px;
+			font-weight:bold;
+		}
+		.jobsiteHero .top-colleaguestitle .top-colleague .colleague-title{
+			font-size:12px;
+		}
+
+
+/** Muligheder og udvikling **/
+
+.jobsiteHeroMuligheder{
+	padding-top:20px;
+	padding-left:13px;
+	height:600px;
+}
+	.jobsiteHeroMuligheder div:first-child{
+		margin-right:20px;
+	}
+
+.jobsiteMulighederColl{
+	position:relative;
+	float:left;
+	width:304px;
+	background-color:#f6f6f6;
+	padding:10px 10px 10px 10px;
+}
+	.jobsiteMulighederColl img{
+		margin:0 0 25px 0;
+	}
+	.jobsiteMulighederColl h2{
+		margin:0 0 0 0;
+	}	
+	.jobsiteMulighederColl h2 + p{
+		margin:0 0 10px 0;
+		color:#333333;
+	}
+	
+
+/** Medarbejdere **/
+.jobsiteHeroColleague .colleague{
+	position:absolute;
+	bottom:0px;
+	right:50px;
+}
+.jobsiteHeroColleague{
+	margin:0 0 0 0;
+}
+
+.jobsiteHeroColleague .top-video {
+	position:absolute;
+	top:28px;
+	left:15px;
+	width:416px;
+	height:293px;
+	padding:19px 0 0 19px;
+}
+
+.jobsiteColleague{
+}
+
+.jobsiteColleagueTxt{
+	position:relative;
+	width:455px;
+	float:left;
+	padding:0 15px 0 0;	
+}
+
+.jobsiteColleagueFacts{
+	position:relative;
+	width:215px;
+	height:512px;
+	float:left;
+	padding:0 0 0 15px;
+	background:url(../images/jobsite/deviderVertical_2x512.jpg) top left no-repeat;
+}
+	.jobsiteColleagueFacts h2, .jobsiteColleagueFacts strong{
+		color:#333;
+	}
+	.jobsiteColleagueFacts strong{
+		margin:0 0 5px 0;
+		display:block;
+	}

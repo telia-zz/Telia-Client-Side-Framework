@@ -1,0 +1,312 @@
+@charset "utf-8";
+/* CSS Document */
+
+.tabletsHeroFront, .tabletsHeroProduct{
+	position:relative;
+	width:700px;
+	margin:0 0 0 0;
+}
+
+/** Forside **/
+
+.tabletsHeroFront{
+	height:315px;
+	background:url(../images/tablets/tabletsHeroBgFront.jpg) top left no-repeat;
+	padding:20px 0 0 0;
+}
+	.tabletsHeroFrontImg{
+		position:relative;
+		float:left;
+	}
+	#tabletsHeader{
+		margin:0 0 0 0;
+		background:none;
+		padding-bottom:20px;
+	}
+	.tabletsHeroTxt{
+		position:relative;
+		float:left;
+		width:260px;
+		text-align:center;
+		padding-top:65px;
+	}
+	.tabletsHeroTxt h2{
+		font-size:19px;
+	}
+	.tabletsHeroTxt p{
+		font-size:15px;
+	}	
+
+.tabletsFrontItemRow{
+	position:relative;
+}
+	.contentWrap .content .tabletsFrontItemRow div:first-child{
+		margin:0 0 0 0;
+	}
+
+
+/** Item btn **/
+.contentWrap .content .tabletsFrontItemRow .tabletsFrontItem{
+	position:relative;
+	width:220px;
+	height:234px;
+	float:left;
+	text-align:center;
+	padding:0 0 0 0;
+	margin:0 0 0 20px;
+	text-decoration:none;
+	color:#666666;
+	cursor:pointer;
+}
+	div.tabletsFrontItem{
+		background:url(../images/tablets/tabletsItemBg.jpg) top left no-repeat;
+	}
+	div:hover.tabletsFrontItem{
+		background:url(../images/tablets/tabletsItemBgHover.jpg) top left no-repeat;
+	}
+	div:active.tabletsFrontItem{
+		background:url(../images/tablets/tabletsItemBgActive.jpg) top left no-repeat;
+	}
+	.tabletsFrontItem h2{
+		margin:5px 0 0 0;
+	}
+	.tabletsFrontItemBadge{
+		position:absolute;
+		width:73px;
+		height:73px;
+		top:0px;
+		right:0px;
+	}
+	.hideBadge{
+		display:none;
+	}
+
+
+/** Tablets - produktside **/
+
+.tabletsHeroProduct{
+	height:354px;
+	background:url(../images/tablets/tabletsHeroBgProducts.jpg) top left no-repeat;
+	padding:0 0 0 0;
+}
+
+#mainTabletImage {
+	position:absolute;
+	top:10px;
+	left:0px;
+	width:410px;
+	height:375px;
+	text-align:center;
+}
+
+#mainTabletImage img {
+	display:none;
+}
+
+.imageSelector {
+	position:relative;
+	left:590px;
+	top:65px;
+	width:90px; 
+	height:51px; 
+	background:url(../images/tablets/small-img-bg.png) no-repeat 0px 0px; 
+	text-align:center;
+	cursor:pointer;
+	margin-bottom:10px;
+}
+
+.imageSelector.selected {
+	background-image:url(../images/tablets/small-img-selected.png);
+	background-position:0px 0px;
+}
+
+.contentWrap .content .tabletsHeroProduct .productHeroBtn{
+	position:absolute;
+	width:146px;
+	height:74px;
+	top:100px;
+	right:130px;
+	z-index:4;
+	display:inline-block;
+	background:url(../images/tablets/tabletsProductsScreamerBg.png) no-repeat top left;
+	padding:20px 0 0 22px;
+	text-shadow: 0 -1px 0 #57366B;
+	font-size:17px;
+	font-weight:bold;
+	color:#FFF;
+	text-decoration:none;
+}
+
+/** Tablets tekster **/
+.tabletsProductTxt{
+	position:relative;
+	float:left;
+	width:440px;
+	padding:0 20px 0 0;
+}
+
+.tabletsProductSpec{
+	position:relative;
+	float:left;
+	width:240px;
+}
+	.contentArea .contentWrap .content	.tabletsProductSpec li{
+		margin-bottom:5px;
+	}
+	
+
+/** Sammenlign tablets **/
+
+.compareDiv table .btn{
+	line-height:normal;
+}
+
+#tabletCompare {
+	position:relative;
+	z-index:9;
+}
+.dropdown {
+	position:relative;
+	float:left;
+}
+.ddBackground {
+	background:url(../images/tablets/dropdown-bg.jpg) no-repeat; 
+	float:left; 
+	height:22px; 
+	padding:6px 0 0 10px; 
+	width:150px;
+}
+#dropdown1Text, #dropdown2Text {
+	margin:0; 
+	padding:0; 
+	border:none; 
+	background:none; 
+	color:#333; 
+	width:180px; 
+	cursor:default;
+}
+.dropdown-arrow {
+	float:left; 
+	cursor:pointer;
+}
+.dropdownList {
+	position:absolute; 
+	top:27px; 
+	overflow:hidden; 
+	max-height:200px;
+	left:2px; 
+	width:180px; 
+	background-color:#fff; 
+	border:solid 1px #000; 
+	border-top:none; 
+	display:none; 
+	z-index:8;
+}
+.dropdownList span {
+	width:210px; 
+	padding:5px; 
+	display:block; 
+	cursor:pointer; 
+	color:#333;
+	background-color:#fff;
+	z-index:8;
+}
+.compareDiv {
+	position:relative;
+	width:698px;
+	z-index:8;
+	border-left:1px solid #E2E2E2;
+	border-right:1px solid #E2E2E2;
+}
+.compareDivInner {
+	position:relative;
+	left:200px;
+	width:500px; 
+}
+.compareDiv table tr:first-child td h3 {
+	position:relative;
+	top:-15px;
+	/*width:80%;*/
+}
+.compareDiv table {
+	width:500px;
+}
+.compareDiv table tr:first-child td, .headerColumn div:first-child {
+	padding-top:10px;
+}
+.compareDiv table, .compareDiv table * {
+	position:relative;
+}
+.compareDiv table tr:first-child td {
+	position:relative;
+	height:130px;
+}
+.compareDiv .even{
+	background-color:#EEEDE9;
+}
+.compareDiv table td, .headerColumn div {
+	vertical-align:top;
+	line-height:20px;
+	padding:4px 0 4px 5px;
+}
+.compareDiv table td {
+	padding-right:20px;
+	width: 135px;
+}
+.ddText {
+	float:left;
+	padding:5px 20px 0 20px;
+	font-weight:bold;
+	color:#333;
+}
+#visAlleLink {
+	color:#6C4286;
+	font-weight:normal;
+	cursor:pointer;
+}
+.headerColumn {
+	position:absolute;
+	top:151px;
+	left:0px;
+	font-size:12px;
+	font-weight:bold;
+	color:#666;
+	width:200px;
+}
+.headerColumn div {
+	padding-right:15px;
+}
+
+/** Hvad kan en tablet **/
+
+#tablets_situation{
+      width:700px;
+      height:950px;
+      position:relative;
+      top:0px;
+      left:0px;
+    }
+    #tablets_situation_flash{
+        position:relative;
+        width:700px;
+        height:284px;
+        margin:0 0 10px 0;
+        z-index:1;
+    }
+    .flashBg{
+        position:absolute;
+        width:700px;
+        height:425px;
+        top:120px;
+        left:0px;
+    }
+	
+.tabletsSituationCol{
+	position:relative;
+	float:left;
+	width:330px;
+	padding:0 20px 0 0;
+	margin:0 0 0 0;
+	z-index:1;
+}
+	

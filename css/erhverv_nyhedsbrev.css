@@ -1,0 +1,70 @@
+@charset "utf-8";
+/* CSS Document */
+
+.newsletterMainStory{
+	position:relative;
+	width:700px;
+	height:225px;
+}
+	.newsletterMainStory img{
+		position:absolute;
+		top:0px;
+		right:0px;
+	}
+	.newsletterMainStory h2, .newsletterMainStory p{
+		position:relative;
+		width:350px;
+	}
+	
+.newsletterStories, .newsletterCases{
+	position:relative;
+	float: left;
+	margin-right:20px;
+	width:460px;
+}
+	.newsletterStorie{
+		position:relative;
+		width:460px;
+		height:198px;
+		margin:20px 0 0 0;
+	}
+		.newsletterStorie img{
+			position:relative;
+			float:left;
+			margin:0 10px 0 0;
+			width:111px;
+			height:198px;
+		}
+
+/** Kundecases **/
+
+.newsletterCaseMain{
+	position:relative;
+	width:440px;
+	height:173px;
+	padding:30px 0 0 20px;
+}
+	.newsletterCaseMain p{
+		font-size:16px;
+		font-style:italic;
+	}
+	.newsletterCaseMain h2{
+		font-size:24px;
+	}
+	
+.newsletterCase{
+	position:relative;
+	width:460px;
+	height:144px;
+	margin:20px 0 0 0;
+}
+	.newsletterCase img{
+		position:relative;
+		float:left;
+		margin:0 10px 0 0;
+		width:111px;
+		height:144px;
+	}	
+	.newsletterCase p{
+		font-style:italic;
+	}	

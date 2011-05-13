@@ -1,0 +1,37 @@
+@charset "utf-8";
+/* CSS Document */
+
+/** Kundeservice **/
+.content .ksItemWrapper{
+	position:relative;
+	width:700px;
+	height:193px;
+	margin:18px 0 18px 0;
+}
+	.content .ksItemWrapper div:first-child{
+		margin:0 0 0 0;
+	}
+
+.content .kundeserviceHeader{
+	position:relative;
+}
+	.content .kundeserviceHeader img{
+		position:absolute;
+		top:0px;
+		right:0px;
+	}
+
+.content .ksItem{
+	position:relative;
+	width:206px;
+	height:173px;
+	float:left;
+	background:url(../images/hjaelp/ksItemBg.png) no-repeat;
+	margin:0 0 0 18px;
+	padding:20px 0 0 15px;
+}
+	.content .ksItem img{
+		position:absolute;
+		top:11px;
+		right:11px;
+	}

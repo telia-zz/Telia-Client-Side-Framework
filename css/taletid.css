@@ -1,0 +1,47 @@
+#talk-forsikring .content_header h3 {
+	color:#666666;
+}
+#talk-forsikring h2 {
+	margin-bottom:8px;
+}
+#talk-forsikring h2 {
+	margin-top:10px;
+}
+#talk-forsikring .selectorDiv {
+	margin-bottom:0px;
+}
+#talk-forsikring .selectorDiv img {
+	margin:0;
+	float:left;
+	cursor:pointer;
+}
+#talk-forsikring .cl {
+	float:none;
+	clear:both;
+}
+#talk-forsikring #textContentWrapper {
+	position:relative;
+}
+#talk-forsikring .textContent {
+	display:none;
+	position:absolute;
+	top:0px;
+	left:0px;
+}
+#talk-forsikring #textContent0 {
+	display:block;
+}
+#talk-forsikring .textContent ul li {
+	background:none;
+	padding-left:0;
+	list-style:disc;
+	margin-left:15px;
+}
+#talk-forsikring .textContent ul li:hover {
+	background:none;
+	padding-left:0;
+}
+
+#talk-forsikring .textContent table strong{
+	font-size:15px;
+}

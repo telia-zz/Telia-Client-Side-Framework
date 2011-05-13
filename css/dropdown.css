@@ -1,0 +1,59 @@
+.dropdown {
+	position:relative;
+	cursor: pointer;
+	background:url(../images/form-dropdown.png) no-repeat 0% 0%;
+	padding-left:6px;
+	height:27px;
+}
+.dropdown .wrap1 {
+	background:url(../images/form-dropdown.png) no-repeat 100% 0%;
+	height:27px;
+	margin-right:-5px;
+}
+.dropdown label {
+	cursor: pointer;
+	line-height: 26px;
+	padding-left: 6px;
+}
+.dropdown .dropdown-list {
+	position:absolute;
+	top:25px;
+	left: -2px;
+	display:none;
+	overflow:hidden;
+  /*max-height:250px;
+  overflow:auto;*/
+}
+.dropdown-list .left-bg {
+	background:url(../images/form-dropdown-left.png) no-repeat 0% 100%;
+    padding-left:7px;
+}
+.dropdown-list .right-bg {
+	background:url(../images/form-dropdown-right.png) no-repeat 100% 100%;
+  	padding-right:7px;
+  	padding-bottom:2px;
+}
+.dropdown-list .bottom-bg {
+	background:url(../images/form-dropdown-bottom.png) repeat-x 0% 100%;
+	padding-bottom: 9px;
+  /*	height:15px;*/
+}
+
+.dropdown li {
+	cursor:pointer;
+	background-repeat:repeat-x;
+	color:#652d86;
+	height:23px;
+	padding: 0 6px 3px;
+	white-space:nowrap;
+	border-top:solid 1px #c5c5c5;
+	background-color:#fff;
+}
+.dropdown li:first-child {
+	border-top:none 0px;
+}
+.dropdown li:hover {
+	background-image:url(../images/form-option-bg.jpg);
+  color:#fff;
+  font-weight:bold;  
+}

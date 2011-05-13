@@ -1,0 +1,141 @@
+@charset "utf-8";
+/* CSS Document */
+
+/** Hastigheder **/
+.mobiltbbFrontSpeedItems{
+	position:relative;
+	width:700px;
+	height:210px;
+	margin-bottom:40px;
+}
+
+.mobiltbbFrontSpeedItem{
+	position:relative;
+	float:left;
+	width:173px;
+	height:210px;
+	background:url(../images/mobiltbredbaand/FrontSpeedDevider.jpg) top left no-repeat;
+	padding:0 0 0 2px;
+}
+	.mobiltbbFrontSpeedItems div:first-child{
+		background:none;
+		padding:0 0 0 0;
+	}
+	.mobiltbbFrontSpeedItem h3{
+		background-color:#eeede9;
+		margin:0 0 20px 0;
+		padding:10px 0 10px 10px;
+		color:#666666;
+		background-image:url(../images/mobiltbredbaand/FrontSpeedDevider.jpg) top left no-repeat;
+	}
+	.mobiltbbFrontSpeedItem h3 + p{
+		color:#333333;
+		font-weight:bold;
+		margin-bottom:10px;
+	}	
+	.mobiltbbFrontSpeedItem p{
+		padding:0 10px 0 10px;
+	}	
+
+.mobiltbbFrontSpeedWrapper {
+	position:relative;
+	width:700px;
+	min-height:100px;
+}
+
+/** Hastighed Erhverv **/
+.mobiltbbFrontErhverv .mobiltbbFrontSpeedItem h3 + p{
+	color:#666666;
+	font-weight:normal;
+	margin-bottom:10px;
+}
+.mobiltbbFrontErhverv .mobiltbbFrontSpeedItem p + p{
+	background-color:#eeede9;
+	padding:10px 0 10px 10px;
+}
+.mobiltbbFrontErhverv .mobiltbbFrontSpeedItem a.btn{
+	margin:0 0 0 10px !important;
+}
+
+/** Infobox **/
+.infoBoxLarge{
+	position:relative;
+	min-height:100px;
+	background-color:#eeede9;
+	padding:33px 33px 33px 33px;
+	margin:47px 0 30px 0;
+}
+	.infoBoxLargeCornerTopRight{
+		position:absolute;
+		top:0px;
+		right:0px;
+		width:33px;
+		height:33px;
+		background:url(../images/cornerTopRight_sand_33x33.jpg) no-repeat;
+	}
+	.infoBoxLargeCornerBottomLeft{
+		position:absolute;
+		bottom:0px;
+		left:0px;
+		width:33px;
+		height:33px;
+		background:url(../images/cornerBottomLeft_sand_33x33.jpg) no-repeat;
+	}
+
+.infoBoxLarge h2{
+	font-size:19px;
+	margin:0 0 20px 0;
+}
+
+.infoBoxLargeItem{
+	position:relative;
+	float:left;
+	width:280px;
+	height:90px;
+	margin:0 30px 30px 0;
+	
+}
+	.infoBoxLargeItem p{
+		margin:0 0 10px 0;
+	}	
+	.infoBoxLargeItem p:first-child{
+		font-weight:bold;
+		color:#333;
+	}	
+
+
+/** Hastighedsoversigt **/
+
+.mobiltbbFrontSpeedOverview{
+	position:relative;
+	width:700px;
+	margin-top:113px;
+}
+.mobiltbbFrontSpeedOverview td:first-child{
+	font-weight:bold;
+}
+
+.mobiltbbFrontSpeedOverview td strong{
+	color:#0083be;
+	font-size:15px;
+}
+.mobiltbbFrontSpeedOverview td img{
+	position:absolute;
+	top:-115px;
+	left:-20px;
+}
+
+
+/** 4G forside **/
+.mobiltbb4gForsideHero{
+	position:relative;
+	width:700px;
+	height:366px;
+	background:url(../images/mobiltbredbaand/4gHeroBg.png) bottom left no-repeat;
+}
+	.dolphinCollWrapper .dolphin3CollItem p{
+		height:50px;
+	}
+	.dolphinCollWrapper .dolphin3CollItem h2{
+		margin-top:12px;
+	}

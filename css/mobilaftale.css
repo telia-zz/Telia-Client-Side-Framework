@@ -1,0 +1,145 @@
+.selectorDiv {
+	margin-bottom:0px;
+	position:relative;
+}
+.selectorDiv img {
+	margin:0;
+	float:left;
+	cursor:pointer;
+}
+.cl {
+	float:none;
+	clear:both;
+}
+#textContentWrapper {
+	position:relative;
+}
+.textContent {
+	display:none;
+	position:absolute;
+	top:0px;
+	left:0px;
+}
+#textContent0 {
+	display:block;
+}
+.textContent ul li {
+	background:none;
+	padding-left:0;
+	list-style:disc;
+	margin-left:15px;
+}
+.textContent ul li:hover {
+	background:none;
+	padding-left:0;
+}
+
+/** Mobilaftale Forside **/
+.mobilaftaleHero{
+	position:relative;
+	width:700px;
+	height:250px;
+	background:url(../images/mobilaftale/mobilaftaleHeroBg.jpg) no-repeat top left;
+}
+	.mobilaftaleHero .badge {
+		position:absolute;
+		z-index:2;
+		top:18px;
+		right:15px;
+	}
+	.mobilaftaleHero .mobiler {
+		position:absolute;
+		z-index:1;
+		top:65px;
+		right:75px;
+	}
+
+.mobilaftaleHero .top-video {
+	position:absolute;
+	top:15px;
+	left:30px;
+	width:297px;
+	height:212px;
+	padding:14px 0 0 14px;
+	background:url(../images/mobilaftale/mobilaftaleHeroVideoBg_02.png) no-repeat;
+}
+
+.mobilaftaleFrontLeft{
+	position:relative;
+	width:290px;
+	padding:0 0 10px 0;
+	float:left;
+}
+
+.mobilaftaleFrontLeft .bulletPoint{
+	position:relative;
+	margin:0 0 15px 0;
+}
+	.mobilaftaleFrontLeft .bulletPoint img{
+		position:relative;
+		float:left;
+		margin:0 6px 0 0;
+	}
+	.mobilaftaleFrontLeft .bulletPoint p{
+		margin:0 0 3px 0;
+		color:#333;
+		font-weight:bold;
+	}
+	.mobilaftaleFrontLeft span{
+		margin:0 0 0 0;
+		color:#666666;
+		font-size:11px;
+	}
+
+.mobilaftaleFrontRight{
+	position:relative;
+	width:340px;
+	padding:0 0 0 70px;
+	float:left;
+}
+	.mobilaftaleScreamer{
+		position:relative;
+		width:260px;
+		height:134px;
+		padding:20px 25px 0 30px;
+		background:url(../images/mobilaftale/mobilaftaleScreamerBg.png) no-repeat top left;
+		color:#ffffff;
+	}
+	.mobilaftaleScreamer h2{
+		margin:0 0 0 0;
+		font-size:19px;
+		color:#FFF;
+	}
+	.mobilaftaleScreamer p{
+		margin-bottom:5px;
+	}
+	.mobilaftaleScreamer a{
+		color:#FFF;
+	}	
+	
+/* screamer styles */
+#x-screamer {
+	height: 94px;
+	position: absolute;
+	top: -40px;
+	width: 208px;
+}
+#x-screamer.s1 {
+  background: url("http://static.telia.dk/11_facelift/images/mobilaftale/selector1-hoverTxt.png") no-repeat scroll 0 0 transparent;
+  left: 80px;
+}
+#x-screamer.s2 {
+  background: url("http://static.telia.dk/11_facelift/images/mobilaftale/selector2-hoverTxt.png") no-repeat scroll 0 0 transparent;
+  left: 200px;
+}
+#x-screamer.s3 {
+  background: url("http://static.telia.dk/11_facelift/images/mobilaftale/selector3-hoverTxt.png") no-repeat scroll 0 0 transparent;
+  left: 220px;
+  width: 142px;
+}
+
+/* hit-area bugfix for IE */
+.browserIE .hit-area {
+	background:red;
+	filter:alpha(opacity=0);
+}

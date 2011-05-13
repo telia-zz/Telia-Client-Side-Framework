@@ -1,0 +1,67 @@
+/* CSS Document */
+
+/** Forside **/
+.blackberryFrontWrapper{
+	position:relative;
+	width:460px;
+	float:left;	
+}
+
+.blackberryFrontRight{
+	position:relative;
+	float:left;
+	width:220px;
+	padding:0 0 0 20px;
+}
+
+/** Telefoner **/
+.blackberryFrontItemRow{
+	position:relative;
+}
+	.contentWrap .content .blackberryFrontItemRow div:first-child{
+		margin:0 0 0 0;
+	}
+
+/** Produktside **/
+.blackberryProductTxt{
+	position:relative;
+	float:left;
+	width:440px;
+	padding:0 20px 0 0;
+}
+
+.blackberryProductSpec{
+	position:relative;
+	float:left;
+	width:240px;
+}
+	.contentArea .contentWrap .content	.blackberryProductSpec li{
+		margin-bottom:5px;
+	}
+
+
+/** Item btn **/
+.contentWrap .content .blackberryFrontItemRow .blackberryFrontItem{
+	position:relative;
+	width:220px;
+	height:265px;
+	float:left;
+	text-align:center;
+	padding:20px 0 0 0;
+	margin:0 0 0 20px;
+	text-decoration:none;
+	color:#666666;
+	cursor:pointer;
+}
+	div.blackberryFrontItem{
+		background:url(../images/blackberry/blackberryItemBg.png) top left no-repeat;
+	}
+	div:hover.blackberryFrontItem{
+		background:url(../images/blackberry/blackberryItemBgHover.png) top left no-repeat;
+	}
+	div:active.blackberryFrontItem{
+		background:url(../images/blackberry/blackberryItemBgActive.png) top left no-repeat;
+	}
+	.blackberryFrontItem h2{
+		margin:5px 0 0 0;
+	}

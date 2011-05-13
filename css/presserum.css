@@ -1,0 +1,46 @@
+@charset "utf-8";
+/* CSS Document */
+
+.pressContact{
+	position:relative;
+	float:left;
+	width:197px;
+	height:230px;
+	background:url(../images/presserum/pressContactBg.jpg) top left no-repeat;
+	margin:0 0 0 10px;
+	padding:14px 14px 0 13px;
+}
+	.pressContactWrapper div:first-child{
+		margin:0 0 0 0;
+	}
+.pressContact h3{
+	margin:10px 0 0 0;
+}
+.pressContact p{
+	margin:0 0 0 0;
+}
+
+
+/** MedieArkiv **/
+.mediearkivItem{
+	position:relative;
+	float:left;
+	width:113px;
+	height:135px;
+	background:url(../images/presserum/pressMedieArkivBg.jpg) no-repeat top left;
+	margin:0 0 0 5px;
+	padding:19px 15px 0 21px;
+	text-align:center;
+	cursor:pointer;
+}
+.medieArkivWrapper div:first-child{
+	margin:0 0 0 0;
+}
+.mediearkivItem p{
+	font-size:11px;
+	margin:0 0 0 0;
+	line-height:15px;
+}
+.mediearkivItem img + p{
+	color:#652d86;
+}

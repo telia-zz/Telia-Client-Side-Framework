@@ -1,0 +1,387 @@
+@charset "utf-8";
+/* CSS Document */
+
+/** Forside **/
+.contentWrap .content .hero, .contentWrap .content .hero .item, .contentWrap .content .hero, .contentWrap .content .hero .item a, .contentWrap .content .hero, .contentWrap .content .hero .items {
+	height:290px !important;
+}
+
+/** Forside - Anbefalede apps **/
+
+#letsappAppetizer{
+	position:relative;
+	width:700px;
+	height:167px;
+	background-image:url(../images/apps/forsideAppetizerBg.jpg);
+	background-position:right;
+	background-repeat:no-repeat;
+	margin:40px 0 40px 0;
+}
+	#letsappAppetizer img{
+		position:relative;
+		float:left;
+	}
+	#letsappAppetizer a + div{
+		width:161px;
+		padding-left:0px;
+	}
+	.appetizerRecappForside{
+		position:relative;
+		float:left;
+		width:159px;
+		height:152px;
+		margin:0 0 0 0;
+		padding:15px 5px 0 15px;
+		cursor:pointer;
+	}
+		.appetizerRecappForside img{
+			float:left;
+			margin:0 8px 10px 0;
+		}
+		#letsappAppetizer p{
+			margin:0 0 6px 0;
+			padding:0 0 0 0;
+			color:#333333;
+		}
+		#letsappAppetizer h3{
+			margin:0 0 0 0;
+			padding:0 0 0 0;
+			font-size:20px;
+			font-weight:normal;
+		}
+
+/** Forside - Infoboxe **/
+
+.frontFooterBox .dolphin3CollItem{
+	background:url(../images/apps/appsFrontFooterBox.png) no-repeat top left;
+	width:180px;
+	height:192px;
+	padding:20px 20px 0 20px;
+	margin:0 0 0 20px;
+	cursor:pointer;
+}
+	.frontFooterBox .dolphin3CollItem:hover{
+		background:url(../images/apps/appsFrontFooterBox_hover.png) no-repeat top left;
+	}
+	.frontFooterBox .dolphin3CollItem:active{
+		background:url(../images/apps/appsFrontFooterBox_active.png) no-repeat top left;
+	}	
+
+.frontFooterBox .dolphin3CollItem h2{
+	margin:0 0 0 0;
+}
+
+.frontFooterBox .dolphin3CollItem img{
+	position:absolute;
+	bottom:0px;
+	left:0px;
+	z-index:1;
+}
+.frontFooterBox .dolphin3CollItem p{
+	margin:5px 0 10px 0;
+}
+.frontFooterBox .dolphin3CollItem a{
+	position:absolute;
+	z-index:2;
+}
+
+/** Kom i gang **/
+
+.komigangColls{
+	position:relative;
+	margin:0 0 30px 0;
+}
+
+.komigangColls div:first-child{
+	background:url(../images/apps/komigangDeviderVertical.png) right 20px no-repeat;
+	padding:0 15px 0 0;
+}
+
+.appsColl{
+	position:relative;
+	float:left;
+	width:335px;
+	padding:0 0 0 15px;
+}
+
+/** Kom i gang - hvor fra **/
+#letsAppWhereFrom{
+	position:relative;
+	width:700px;
+	height:471px;
+	background:url(../images/apps/bgHvorKommerAppsFra.png) no-repeat;
+	padding:100px 0 0 0;
+	margin:0 0 30px 0;
+}
+	.letsAppWhereFromBox{
+		position:relative;
+		float:left;
+		width:200px;
+		height:216px;
+		margin:0 0 8px 8px;
+		padding:10px 10px 0 10px;
+		background:url(../images/apps/hvorFraBoxBg.png) no-repeat;
+	}
+	.letsAppWhereFromBox img{
+		position:relative;
+		float:left;
+		margin:0 10px 0 0;
+	}
+	#letsAppWhereFrom .letsAppWhereFromBox h2{
+		margin:0 0 0 0;
+		padding:0 0 0 0;
+		font-size:20px;
+		color:#333;
+		font-weight:normal;
+	}
+	#letsAppWhereFrom .letsAppWhereFromBox p{
+		color:#333333;
+	}	
+	#letsAppWhereFrom .letsAppWhereFromLink{
+		position:absolute;
+		display:block;
+		width:221px;
+		height:15px;
+		top:195px;
+		left:10px;
+	}
+
+.introTxt{
+	position: absolute;
+	width: 600px;
+	top: 20px;
+	left: 15px;
+}
+	.introTxt h2{
+		font-size:19px;
+		margin:0 0 0 0;
+	}
+	
+/** Footer bokse **/
+
+.appsFooterBox .dolphin3CollItem{
+	background:url(../images/apps/appsFooterBox.png) no-repeat top left;
+	width:185px;
+	height:107px;
+	padding:15px 20px 0 15px;
+	margin:0 0 0 20px;
+	cursor:pointer;
+}
+	.appsFooterBox .dolphin3CollItem:hover{
+		background:url(../images/apps/appsFooterBox_hover.png) no-repeat top left;
+	}
+	.appsFooterBox .dolphin3CollItem:active{
+		background:url(../images/apps/appsFooterBox_active.png) no-repeat top left;
+	}	
+
+.appsFooterBox .dolphin3CollItem h2{
+	margin:0 0 0 0;
+	z-index:2;
+	position:absolute;
+}
+
+.appsFooterBox .dolphin3CollItem img{
+	position:absolute;
+	bottom:0px;
+	left:0px;
+	z-index:1;
+}
+
+/** OS sider **/
+#letsappFlashHowto{
+	position:relative;
+	width:512px;
+	height:421px;
+	float:left;
+}
+
+#NiceToKnow{
+	position:relative;
+	float:left;
+	width:173px;
+	height:447px;
+	padding:0 0 0 15px;
+	margin:0 0 0 0;
+}
+	#NiceToKnow h2{
+		margin:0 0 15px 0;
+		padding:0 0  0 0;
+	}
+	#NiceToKnow p, #NiceToKnow a{
+		font-size:11px;
+	}
+	
+#letsapp_col{
+	position:relative;
+}
+
+#letsapp_col h2{
+	margin:0 0 0 0;
+}
+
+.letsapp_col_left, .letsapp_col_right{
+	position:relative;
+	width:337px;
+	float:left;
+}
+	.letsapp_col_left{
+		margin:0 26px 0 0;
+	}
+
+.letsapp_colBox{
+	width:319px;
+	height:98px;
+	position:relative;
+	margin:0 0 20px 0;
+	padding:8px 10px 0 8px;
+	background:url(../images/apps/osInfoBoxBg.png) no-repeat;
+}
+	.letsapp_colBox p{
+		margin:0 0 0 0 !important;
+	}
+	.letsapp_colBox h2 {
+		margin:0 0 0 0 !important;
+		font-size:15px !important;
+		font-weight:bold;
+		color:#000;
+	}
+	.letsapp_colBox img{
+		float:left;
+		margin:0 10px 30px 0;
+	}	
+
+/* Top 10 Smartphones */
+.top10Smartphones {
+	overflow: hidden;
+}
+
+.top10Smartphones .items {
+	height: 275px;
+	margin-bottom: 0;
+	overflow: hidden;
+	width: 700px;
+}
+
+.top10Smartphones .items a.item {
+	filter: alpha(opacity = 0);
+	opacity: 0;
+	position: absolute;
+	z-index: 7;
+}
+
+.top10Smartphones .items a.item.active {
+	filter: alpha(opacity = 100);
+	opacity: 1;
+	z-index: 8;
+}
+
+.top10Smartphones ul.navigation {
+	background: url(../images/apps/top-10-smartphones/navigation-bg.png) repeat-x left bottom;
+	display: block;
+	float: none !important;
+	height: 152px;
+	list-style-type: none !important;
+	list-style-image: none !important;
+	margin-right: 0 !important;
+	overflow: hidden;
+	padding-left: 0 !important;
+	width: 100% !important;
+}
+
+.top10Smartphones ul.navigation li {
+	float: left;
+	margin: 20px 0 0 4px;
+	width: 66px;
+}
+
+.top10Smartphones ul.navigation li:first-child {
+	margin-left: 2px;
+}
+
+.top10Smartphones ul.navigation li div {
+	background: url(../images/apps/top-10-smartphones/thumbnail-bg.png) no-repeat left top;
+	cursor: pointer;
+	display: table-cell;
+	filter: alpha(opacity = 60);
+	height: 80px;
+	opacity: 0.6;
+	text-align: center;
+	vertical-align: middle;
+	width: 66px;
+}
+
+.top10Smartphones ul.navigation li.active div,
+.top10Smartphones ul.navigation li:hover div {
+	filter: alpha(opacity = 100);
+	opacity: 1;
+}
+
+.top10Smartphones ul.navigation li.active div {
+	background: url(../images/apps/top-10-smartphones/thumbnail-bg.png) no-repeat left -80px;
+	cursor: default;
+}
+
+.top10Smartphones ul.navigation li p {
+	color: #333333;
+	font-size: 9px;
+	text-align: center;
+}
+
+/** Anbefalede apps **/
+
+.expertCol{
+	position:relative;
+	float:left;
+	width:226px;
+}
+	.expertCol h2{
+		margin:0 0 5px 0;
+	}
+	
+.expertBox{
+	position:relative;
+	width:216px;
+	height:285px;
+	padding:30px 5px 0 5px;
+	background:url(../images/apps/expertCollBg.png) no-repeat top left #FFF;
+}
+	.expertBox h3{
+		font-size:14px;
+		margin:0 0 0 0;
+		padding:0 0 0 0;
+		font-weight:bold;
+	}
+	.expertBox p{
+		margin:0 0 0 0;
+		padding:0 0 0 0;
+	}
+
+	.expertBox img{
+		margin:0 10px 0 0;
+		padding:0 0 0 0;
+		float:left;
+	}
+
+
+.expertIosApp, .expertSymbianApp{
+	background-color:#ffffff;
+}
+
+.expertSymbianApp, .expertAndroidApp, .expertIosApp{
+	position:relative;
+	width:216px;
+	height:300px;
+	margin:0 0 0 0;
+	padding:15px 5px 0 5px;
+}
+	.expertSymbianApp p, .expertAndroidApp p, .expertIosApp p{
+		color:#333333;
+		margin:0 0 5px 0;
+		padding:0 0 0 0;
+		float:left;
+	}
+	.expertSymbianApp img, .expertAndroidApp img, .expertIosApp img{
+		margin:0 5px 10px 0;
+		padding:0 0 0 0;
+		float:left;
+	}

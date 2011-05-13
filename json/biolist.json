@@ -1,0 +1,237 @@
+{
+    "København": [
+        {
+            "name" : "Grand Teatret",            
+            "adr" : "Mikkel Bryggers Gade 8",
+            "postal" : 1460,
+            "locality" : "København K",
+            "tel" : "33151611",
+            "url" : "<a href='http://www.grandteatret.dk' target='_blank'>www.grandteatret.dk</a>",
+            "info" : "OBS: Stander står til venstre for billetsalget"
+        },
+        {
+            "name" : "CinemaxX København",            
+            "adr" : "Fisketorvet,",
+            "url" : "Kalvebod Brygge 57",
+            "postal" : 1560,
+            "locality" : "København V",
+            "tel" : "70101202",
+            "url" : "<a href='http://www.cinemaxx.dk' target='_blank'>www.cinemaxx.dk</a>",
+            "info" : "OBS: Stander står til venstre for billetsalget"
+        },
+        {
+            "name" : "Dagmar Teatret",
+            "adr" : "Jernbanegade 2",
+            "postal" : 1608,
+            "locality" : "København V",
+            "tel" : "70131211",
+            "url" : "<a href='http://www.kino.dk' target='_blank'>www.kino.dk</a>",
+            "info" : ""
+        },
+        {
+            "name" : "Palads Teatret",            
+            "adr" : "Axeltorv 9",
+            "postal" : 1609,
+            "locality" : "København V",
+            "tel" : "70131211",
+            "url" : "<a href='http://www.kino.dk' target='_blank'>www.kino.dk</a>",
+            "info" : ""
+        },
+        {
+            "name" : "Imperial",            
+            "adr" : "Ved Vesterport 4",
+            "postal" : 1612,
+            "locality" : "København V",
+            "tel" : "70131211",
+            "url" : "<a href='http://www.kino.dk' target='_blank'>www.kino.dk</a>",
+            "info" : ""
+        },
+        {
+            "name" : "Metropol København",            
+            "adr" : "Vesterbrogade 1",
+            "postal" : 1620,
+            "locality" : "København V",
+            "tel" : "70131211",
+            "url" : "<a href='http://www.kino.dk' target='_blank'>www.kino.dk</a>",
+            "info" : ""
+        },
+        {
+            "name" : "Falkoner Biografen",            
+            "adr" : "Sylows Allé 15",
+            "postal" : 2000,
+            "locality" : "Frederiksberg C",
+            "tel" : "70131211",
+            "url" : "<a href='http://www.kino.dk' target='_blank'>www.kino.dk</a>",
+            "info" : ""
+        } 
+    ],
+    "Sjælland og øerne" : [
+        {
+            "name" : "BioCity Taastrup",            
+            "adr" : "City 2",
+            "postal" : 2630,
+            "locality" : "Taastrup",
+            "tel" : "70131211",
+            "url" : "<a href='http://www.kino.dk' target='_blank'>www.kino.dk</a>",
+            "info" : ""
+        },
+        {
+            "name" : "Kinopalæet",            
+            "adr" : "Klampenborgvej 215A",
+            "postal" : 2800,
+            "locality" : "Kgs. Lyngby",
+            "tel" : "70131211",
+            "url" : "<a href='http://www.kino.dk' target='_blank'>www.kino.dk</a>",
+            "info" : ""
+        },
+        {
+            "name" : "BioCity Hillerød",            
+            "adr" : "Ndr. Jernbanevej 8-10",
+            "postal" : 3400,
+            "locality" : "Hillerød",
+            "tel" : "70131211",
+            "url" : "<a href='http://www.kino.dk' target='_blank'>www.kino.dk</a>",
+            "info" : ""
+        } 
+    ],
+    "Fyn og øerne" : [
+        {
+            "name" : "BioCity Odense",            
+            "adr" : "Østre Stationsvej 27, 2.sal",
+            "postal" : 5000,
+            "locality" : "Odense C",
+            "tel" : "70131211",
+            "url" : "<a href='http://www.kino.dk' target='_blank'>www.kino.dk</a>",
+            "info" : ""
+        },
+        {
+            "name" : "CinemaxX Odense",            
+            "adr" : "Rosengårdscenteret 250",
+            "postal" : 5220,
+            "locality" : "Odense SØ",
+            "tel" : "66612666",
+            "url" : "<a href='http://www.cinemaxx.dk' target='_blank'>www.cinemaxx.dk</a>",
+            "info" : "OBS: Stander står til højre for indgangen"
+        } 
+    ],
+    "Jylland" : [
+        {
+            "name" : "BioCenter Kolding",            
+            "adr" : "Kolding Storcenter",
+            "url" : "Skovvangen 42",
+            "postal" : 6000,
+            "locality" : "Kolding",
+            "tel" : "70221888",
+            "url" : "<a href='http://www.biocenter.dk' target='_blank'>www.biocenter.dk</a>",
+            "info" : ""
+        },
+        {
+            "name" : "BioCity Esbjerg",            
+            "adr" : "Gl. Vardevej 66",
+            "postal" : 6700,
+            "locality" : "Esbjerg",
+            "tel" : "70131211",
+            "url" : "<a href='http://www.kino.dk' target='_blank'>www.kino.dk</a>",
+            "info" : ""
+        },
+        {
+            "name" : "BioCity Herning",            
+            "adr" : "Sølvgade 20",
+            "postal" : 7400,
+            "locality" : "Herning",
+            "tel" : "70131211",
+            "url" : "<a href='http://www.kino.dk' target='_blank'>www.kino.dk</a>",
+            "info" : ""
+        },
+        {
+            "name" : "BioCity Århus",            
+            "adr" : "Skt. Knuds Torv 15",
+            "postal" : 8000,
+            "locality" : "Århus C",
+            "tel" : "70131211",
+            "url" : "<a href='http://www.kino.dk' target='_blank'>www.kino.dk</a>",
+            "info" : ""
+        },
+        {
+            "name" : "CinemaxX Århus",            
+            "adr" : "M.P. Bruunsgade 25",
+            "postal" : 8000,
+            "locality" : "Århus",
+            "tel" : "70120101",
+            "url" : "<a href='http://www.cinemaxx.dk' target='_blank'>www.cinemaxx.dk</a>",
+            "info" : "OBS: Stander står til venstre for trappen"
+        },
+        {
+            "name" : "Metropol Århus",            
+            "adr" : "Tordenskjoldsgade 21",
+            "postal" : 8200,
+            "locality" : "Århus N",
+            "tel" : "70131211",
+            "url" : "<a href='http://www.kino.dk' target='_blank'>www.kino.dk</a>",
+            "info" : ""
+        },
+        {
+            "name" : "Bio Silkeborg",            
+            "adr" : "Papirfabrikken 10",
+            "postal" : 8600,
+            "locality" : "Silkeborg",
+            "tel" : "86820544",
+            "url" : "<a href='http://www.biosilkeborg.dk' target='_blank'>www.biosilkeborg.dk</a>",
+            "info" : ""
+        },
+        {
+            "name" : "MegaScope Horsens",            
+            "adr" : "Holmboes Allé 13B",
+            "postal" : 8700,
+            "locality" : "Horsens",
+            "tel" : "75646788",
+            "url" : "<a href='http://www.megascope.dk' target='_blank'>www.megascope.dk</a>",
+            "info" : ""
+        },
+        {
+            "name" : "BioCity Aalborg",            
+            "adr" : "John F. Kennedys Plads 1",
+            "postal" : 9000,
+            "locality" : "Aalborg",
+            "tel" : "70131211",
+            "url" : "<a href='http://www.kino.dk' target='_blank'>www.kino.dk</a>",
+            "info" : ""
+        },
+        {
+            "name" : "Metropol Aalborg",            
+            "adr" : "Vesterbro 49",
+            "postal" : 9000,
+            "locality" : "Aalborg",
+            "tel" : "70131211",
+            "url" : "<a href='http://www.kino.dk' target='_blank'>www.kino.dk</a>",
+            "info" : ""
+        },
+        {
+            "name" : "Biocenter Hjørring",            
+            "adr" : "Åstrupvej 8",
+            "postal" : 9800,
+            "locality" : "Hjørring",
+            "tel" : "96234444",
+            "url" : "<a href='http://www.hjbio.dk' target='_blank'>www.hjbio.dk</a>",
+            "info" : "OBS: Stander står til venstre for billetsalget"
+        },
+        {
+            "name" : "Lido Vejle",            
+            "adr" : "Søndertorv 1",
+            "postal" : 7100,
+            "locality" : "Vejle",
+            "tel" : "75824080",
+            "url" : "<a href='http://www.lido.dk' target='_blank'>www.lido.dk</a>",
+            "info" : ""
+        },
+        {
+            "name" : "BioCity Randers",            
+            "adr" : "Thors Bakke 2",
+            "postal" : 8900,
+            "locality" : "Randers C",
+            "tel" : "70131211",
+            "url" : "<a href='http://www.kino.dk' target='_blank'>www.kino.dk</a>",
+            "info" : ""
+        } 
+    ]
+}

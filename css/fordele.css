@@ -1,0 +1,325 @@
+@charset "utf-8";
+/* CSS Document */
+
+/** Fordelsforside - Hero **/
+
+.contentWrap .content .hero .items .item .fordeleForsidehero{
+	width:700px;
+	position:relative;
+}
+.contentWrap .content .hero, .contentWrap .content .hero .items {
+	width:700px;
+	height:262px;
+	position:relative;
+}
+.contentWrap .content .hero{
+	height:330px;
+}
+.contentWrap .content .hero .navigation{
+	width:700px;
+	position:relative;
+}
+
+/** Forside - fordele items **/
+.fordeleFrontItemRow{
+	position:relative;
+	margin:0 0 20px 0;
+	height:279px;
+}
+	.contentWrap .content .fordeleFrontItemRow div:first-child{
+		margin:0 0 0 0;
+	}
+	
+.contentWrap .content .fordeleFrontItemRow .fordeleFrontItem{
+	position:relative;
+	width:220px;
+	height:259px;
+	float:left;
+	padding:20px 0 0 0;
+	margin:0 0 0 20px;
+	text-decoration:none;
+	color:#666666;
+	text-align:center;
+	cursor:pointer;
+}
+	.contentWrap .content .fordeleFrontItemRow > div.fordeleFrontItem{
+		background:url(../images/fordele/fordeleItemBg.png) top left no-repeat;
+	}
+	.contentWrap .content .fordeleFrontItemRow > div:hover.fordeleFrontItem{
+		background:url(../images/fordele/fordeleItemBgHover.png) top left no-repeat;
+	}
+	.contentWrap .content .fordeleFrontItemRow > div:active.fordeleFrontItem{
+		background:url(../images/fordele/fordeleItemBgActive.png) top left no-repeat;
+	}
+	.fordeleFrontItem h2, .fordeleFrontItem p, .fordeleFrontItem strong{
+		padding:0 10px 0 20px;
+	}
+	.fordeleFrontItem h2{
+		margin:0 0 0 0;
+		color:#652d86;
+		text-align:left;
+	}
+	.fordeleFrontItem p{
+		text-align:left;
+		height:60px;
+		margin-bottom:0px;
+	}	
+	.fordeleFrontItem strong{
+		text-align:center;
+		color:#333;
+		line-height:20px;
+	}	
+	.fordeleFrontItem strong + p{
+		text-align:center;
+		font-size:11px;
+		line-height:normal;
+		height:30px;
+	}	
+
+.fordeleImgWrap{
+	position:relative;
+	width:220px;
+	height:120px;
+	background:url(../images/fordele/fordeleArcBg.png) no-repeat center 80px;
+	text-align:center;
+}
+	.contentWrap .content .fordeleFrontItemRow .fordeleFrontItem .fordeleImgWrap div:first-child{
+		float:left;
+		margin:0 0 0 35px;
+	}
+	.fordeleCoverBg {
+		position:relative;
+		float:right;
+		width:69px;
+		height:116px;
+		background:url(../images/fordele/fordeleCoverBg.png) no-repeat top left;
+		padding-top:4px;
+		margin:0 35px 0 0;
+	}
+	.browserIE7 .contentWrap .content .fordeleFrontItemRow .fordeleFrontItem .fordeleImgWrap .fordeleCoverBg {
+		float:left;
+		margin:0 0 0 25px;
+	}	
+		.fordeleCoverBg img {
+			height: 90px;
+			width: 61px;
+		}
+	#bio img {
+		height: 102px;
+		width: 180px;
+	}
+	#bio .teliaTirsdag-cover {
+		background: url(../images/fordele/teliaTirsdagTrailerOverlay.png) no-repeat 0 0;
+		position: absolute;
+		cursor: pointer;
+		height: 103px;
+		margin-left: 20px;
+		width: 181px;
+	}
+		
+/** Telia Tirsdag **/
+
+.teliaTirsdagFront{
+	position:relative;
+}
+	.teliaTirsdagFront h2{
+		font-size:23px;
+	}
+	.teliaTirsdagFront p{
+		font-size:15px;
+	}
+
+.teliaTirsdagFrontColl {
+	
+	position:relative;
+	float:left;
+	display: inline-block;
+	width:325px;
+	padding:0 25px 0 0;
+
+}
+
+.teliaTirsdagFrontColl .bulletPoint{
+	position:relative;
+	width:350px;
+	height:155px;
+}
+	.teliaTirsdagFrontColl .bulletPoint img{
+		position:relative;
+		float:left;
+		margin:0 10px 10px 0;
+	}
+	.teliaTirsdagFrontColl .bulletPoint h3{
+		padding-top:8px;
+		margin-top:0px;
+		font-weight:bold;
+		float:left;
+	}
+	.teliaTirsdagFrontColl .bulletPoint strong{
+		color:#dd0550;
+	}
+
+ul.teliaTirsdag-filmList { padding-left: 0!important; }
+
+	.teliaTirsdag-filmList li {
+		display: inline-block;
+		vertical-align: top;
+		list-style: none;
+	}
+	.browserIE7 .teliaTirsdag-filmList li { zoom:1;*display:inline; }
+	.teliaTirsdag-cover {
+		background: url(../images/fordele/telia-tirsdag/premiereCoverOverlay.png) no-repeat 0 0;
+		position: absolute;
+		cursor: pointer;
+		height: 177px;
+		width: 123px;		
+	}
+	.teliaTirsdag-filmList img {
+		margin-right: 15px;
+		height: 177px;
+		width: 123px;
+	}
+	.teliaTirsdag-filmList li:last-child img{ margin: 0; }
+	.teliaTirsdag-filmList h4 {
+		margin: 6px 0 0 2px;
+		width: 123px;
+	}
+	
+/* inviter en ven form */
+#invite-form h3 { font-size: 22px; }
+#invite-form dl { line-height: 27px; }
+#invite-form form dt{
+  clear: left;
+  float: left;
+  line-height: 27px;
+  margin-bottom: 6px;
+  text-align: left;
+  width: 90px;
+}
+#invite-form form .inlineDD {
+	margin-left: 126px;
+	width: 290px;
+}
+#invite-form form .inlineDD > * { margin-right: 12px; }
+#invite-form input { width: 350px; }
+#invite-form .error {
+	opacity: 0;
+	filter: alpha(opacity=100);
+	width: 300px;
+}
+
+/** Telia Tirsdag Biografer **/
+/* bio table */
+table.bio-list {
+	border-collapse: collapse;
+	border-spacing: 0;
+	height: 553px;
+	width:700px;
+}
+	table.bio-list h2 {
+		font-size: 16px;
+	}
+	table.bio-list td , table.bio-list th { font-size: 13px !important; }
+	table.bio-list a { text-decoration:  none !important; }
+	table.bio-list a:hover { text-decoration:  underline !important; }
+	table.bio-list .adr { margin-bottom: 10px; }
+	
+	table.bio-list thead {
+		background: url(../images/fordele/telia-tirsdag/biograflisteWrapperTop.png) no-repeat scroll -1px 0 #F8F9F9;
+		border-style: none;
+	}
+		table.bio-list thead tr { height: 35px; }
+		table.bio-list th {
+			height: 35px;
+			vertical-align: middle !important;
+			text-align: left;
+		}
+	table.bio-list tbody { height: 508px; }
+	
+	table.bio-list td { padding: 0 !important; }	
+	table.bio-list ul {
+		overflow: hidden;
+		padding-left: 0 !important;
+		white-space: nowrap;
+	}
+	table.bio-list li {
+		height: 35px;
+		line-height: 33px;
+		list-style: none outside none;
+		margin: 0 !important;
+		padding: 0 9px;
+		position: relative;
+		vertical-align: middle;
+		z-index: 0;
+	}
+		table.bio-list li.odd { background-color: #f6f6f6; }
+		table.bio-list li:odd { background-color: #f6f6f6; }
+
+		.hover-arrow, .active-arrow {
+			color: #fff;
+			cursor: pointer;
+			font-weight: bold;
+			left: -9999px;
+			padding: 7px 9px 0;
+			height: 29px;
+			width: 163px;
+			position: absolute;
+		}
+		.hover-arrow {
+			background: url(../images/fordele/telia-tirsdag/biograflisteArrowHover.png) no-repeat scroll;
+			z-index: 10;
+		}
+		.active-arrow {
+			background: url(../images/fordele/telia-tirsdag/biograflisteArrowActive.png) no-repeat scroll;
+			z-index: 8;
+		}
+		
+	table.bio-list div.vcard {
+		 padding: 20px 40px;
+		 white-space: nowrap;
+	}
+	
+	table.bio-list tfoot {
+		background: url(../images/fordele/telia-tirsdag/biograflisteWrapperBottom.png) no-repeat scroll bottom left;
+		border-style: hidden;
+		height: 3px;
+		
+	}
+		table.bio-list tfoot td { font-size: 0!important; }
+
+/** Fri musik **/
+
+.frimusikHero{
+	position:relative;
+	width:670px;
+	height:171px;
+	background:url(../images/laptop/laptopHeroBgProducts.jpg) no-repeat 0px -40px;
+	padding:80px 0 0 30px;
+	margin:0 0 20px 0;
+}
+	.frimusikHero h3{
+		font-size:18px;
+		font-weight:normal;
+		margin:0 0 10px 0;
+	}
+	.frimusikHero img{
+		position:absolute;
+		top:33px;
+		right:47px;
+	}	
+
+.frimusikTxtWrapper{
+	position:relative;
+	width:460px;
+}
+
+.frimusikHowTo h2, .frimusikHowTo img{
+	float:left;
+}
+.frimusikHowTo h2{
+	margin:8px 0 20px 0;
+	width:182px;
+}
+.frimusikHowTo img{
+	margin:0 6px 0 0;
+}

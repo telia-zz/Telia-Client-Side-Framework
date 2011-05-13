@@ -1,0 +1,134 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+/** Forside **/
+.laptopHeroProduct{
+	position:relative;
+	width:700px;
+	margin:0 0 0 0;
+}
+
+/** Item btn **/
+
+.laptopFrontItemRow{
+	position:relative;
+	margin:0 0 20px 0;
+	height:266px;
+}
+	.contentWrap .content .laptopFrontItemRow div:first-child{
+		margin:0 0 0 0;
+	}
+
+.contentWrap .content .laptopFrontItemRow .laptopFrontItem{
+	position:relative;
+	width:220px;
+	height:266px;
+	float:left;
+	text-align:center;
+	padding:0 0 0 0;
+	margin:0 0 0 20px;
+	text-decoration:none;
+	color:#666666;
+	cursor:pointer;
+}
+	div.laptopFrontItem{
+		background:url(../images/laptop/laptopItemBg.png) top left no-repeat;
+	}
+	div:hover.laptopFrontItem{
+		background:url(../images/laptop/laptopItemBgHover.png) top left no-repeat;
+	}
+	div:active.laptopFrontItem{
+		background:url(../images/laptop/laptopItemBgActive.png) top left no-repeat;
+	}
+	.laptopFrontItem h2{
+		margin:15px 0 0 0;
+	}
+	.laptopFrontItemBadge{
+		position:absolute;
+		width:73px;
+		height:73px;
+		top:0px;
+		right:0px;
+	}
+		.hideBadge{
+			display:none;
+		}
+
+/** Laptops - produktside **/
+
+#laptopsHeader{
+	margin:0 0 0 0;
+	background:none;
+	padding-bottom:20px;
+}
+
+.laptopHeroProduct{
+	height:354px;
+	background:url(../images/laptop/laptopHeroBgProducts.jpg) top left no-repeat;
+	padding:0 0 0 0;
+}
+
+#mainLaptopImage {
+	position:absolute;
+	top:10px;
+	left:0px;
+	width:410px;
+	height:375px;
+	text-align:center;
+}
+
+#mainLaptopImage img {
+	display:none;
+}
+
+.imageSelector {
+	position:relative;
+	left:590px;
+	top:95px;
+	width:90px; 
+	height:51px; 
+	background:url(../images/tablets/small-img-bg.png) no-repeat 0px 0px; 
+	text-align:center;
+	cursor:pointer;
+	margin-bottom:10px;
+}
+
+.imageSelector.selected {
+	background-image:url(../images/tablets/small-img-selected.png);
+	background-position:0px 0px;
+}
+
+.contentWrap .content .laptopHeroProduct .productHeroBtn{
+	position:absolute;
+	width:146px;
+	height:74px;
+	top:100px;
+	right:130px;
+	z-index:4;
+	display:inline-block;
+	background:url(../images/tablets/tabletsProductsScreamerBg.png) no-repeat top left;
+	padding:20px 0 0 22px;
+	text-shadow: 0 -1px 0 #57366B;
+	font-size:17px;
+	font-weight:bold;
+	color:#FFF;
+	text-decoration:none;
+}
+
+/** Laptop tekster **/
+.laptopProductTxt{
+	position:relative;
+	float:left;
+	width:440px;
+	padding:0 20px 0 0;
+}
+
+.laptopProductSpec{
+	position:relative;
+	float:left;
+	width:240px;
+}
+	.contentArea .contentWrap .content	.laptopProductSpec li{
+		margin-bottom:5px;
+	}

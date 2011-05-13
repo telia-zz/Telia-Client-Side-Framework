@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<movies>
+    <movie>
+        <title>The Tree of Life</title>
+        <cover>http://dk.image-1.filmtrailer.com/70976.jpg</cover>
+        <video>http://dk.clip-1.filmtrailer.com/6823_22307_a_4.mp4</video>
+    </movie>
+    <movie>
+        <title>Julia's Eyes</title>
+        <cover>http://dk.image-1.filmtrailer.com/69827.jpg</cover>
+        <video>http://dk.clip-1.filmtrailer.com/5712_22128_a_4.mp4</video>
+    </movie>
+    <movie>
+        <title>Tømmermænd i Thailand</title>
+        <cover>http://dk.image-1.filmtrailer.com/69200.jpg</cover>
+        <video>http://dk.clip-1.filmtrailer.com/6762_22087_a_4.mp4</video>
+    </movie>
+    <movie>
+        <title>Lapland Odyssey</title>
+        <cover>http://dk.image-1.filmtrailer.com/69817.jpg</cover>
+        <video>http://dk.clip-1.filmtrailer.com/4725_22069_a_4.mp4</video>
+    </movie>
+    <movie>
+        <title>A Woman, a Gun and a Noodle Shop</title>
+        <cover>http://dk.image-1.filmtrailer.com/44709.jpg</cover>
+        <video>http://dk.clip-1.filmtrailer.com/5698_22502_a_4.mp4</video>
+    </movie>
+    <bio>
+        <title>Kongens Store Tale</title>
+        <cover>http://static.telia.dk/11_facelift/images/fordele/teliaTirsdagTrailerImg.jpg</cover>
+        <video>http://dk.clip-1.filmtrailer.com/5557_18029_a_4.mp4</video>
+    </bio>
+</movies>
